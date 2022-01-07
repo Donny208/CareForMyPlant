@@ -59,6 +59,17 @@ def create_jobs() -> int:  # Create All Plant Jobs
     )
     jobs[-1].setall('0 0 * * *')  # At 12am Every Day
 
+    # Backups
+    jobs.append(
+        cron.new(
+            command=f'mongoexport --collection=data --db=plant --out=/home/plant/usb/data.json;'
+                    f'mongoexport --collection=users --db=plant --out=/home/plant/usb/users.json;'
+                    f'mongoexport --collection=votes --db=plant --out=/home/plant/usb/votes.json',
+            comment=f"Cron Job Created At: {now} | Evening Data Collection")
+    )
+    #jobs[-1].setall('30 1 * * *')  # At 1:30am Every Day
+    jobs[-1].setall('54 21 * * *')  # At 1:30am Every Day
+
     if env == 'prod':
         # Git Pulling new updates
         jobs.append(
@@ -66,7 +77,7 @@ def create_jobs() -> int:  # Create All Plant Jobs
                 command=f'git -C ~/{env}/CareForMyPlant/ pull',
                 comment=f"Cron Job Created At: {now} | Git Pull")
         )
-        jobs[-1].setall('1 21 * * *')  # At 1am Every Day
+        jobs[-1].setall('0 1 * * *')  # At 1am Every Day
 
     cron.write()
     return 0
