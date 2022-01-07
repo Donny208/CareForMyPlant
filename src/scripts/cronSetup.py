@@ -1,6 +1,10 @@
+import os
 from crontab import CronTab
 from datetime import datetime
+from dotenv import load_dotenv
 cron = CronTab(user='plant')
+load_dotenv()
+env = os.getenv("ENV")
 
 
 def clear_all_jobs() -> int:  # Clear all Plant Jobs
@@ -15,20 +19,25 @@ def create_jobs() -> int:  # Create All Plant Jobs
 
     # Make Poll Script
     jobs.append(
-        cron.new(command='export PYTHONPATH=/home/plant/code/CareForMyPlant; /usr/bin/python3 ~/code/CareForMyPlant/src/jobs/poll.py >> /home/plant/logs/logs.txt 2>&1', comment=f"Cron Job Created At: {now}")
+        cron.new(command=f'export PYTHONPATH=/home/plant/{env}/CareForMyPlant; /usr/bin/python3 '
+                         f'~/{env}/CareForMyPlant/src/jobs/poll.py >> /home/plant/logs/logs.txt 2>&1', 
+                 comment=f"Cron Job Created At: {now}")
     )
     jobs[-1].setall('0 8 * * *')  # At 8am Every Day
 
     # Vote Counting Script
     jobs.append(
-        cron.new(command='export PYTHONPATH=/home/plant/code/CareForMyPlant; /usr/bin/python3 /home/plant/code/CareForMyPlant/src/jobs/count.py >> /home/plant/logs/logs.txt 2>&1', comment=f"Cron Job Created At: {now}")
+        cron.new(command=f'export PYTHONPATH=/home/plant/{env}/CareForMyPlant; /usr/bin/python3 '
+                         f'/home/plant/{env}/CareForMyPlant/src/jobs/count.py >> /home/plant/logs/logs.txt 2>&1',
+                 comment=f"Cron Job Created At: {now}")
     )
     jobs[-1].setall('0 22 * * *')  # At 10pm Every Day
 
     # Morning Data Collection
     jobs.append(
         cron.new(
-            command='export PYTHONPATH=/home/plant/code/CareForMyPlant; /usr/bin/python3 /home/plant/code/CareForMyPlant/src/jobs/collect_data.py >> /home/plant/logs/logs.txt 2>&1',
+            command=f'export PYTHONPATH=/home/plant/{env}/CareForMyPlant; /usr/bin/python3 '
+                    f'/home/plant/{env}/CareForMyPlant/src/jobs/collect_data.py >> /home/plant/logs/logs.txt 2>&1',
             comment=f"Cron Job Created At: {now}")
     )
     jobs[-1].setall('0 9 * * *')  # At 9am Every Day
@@ -36,7 +45,8 @@ def create_jobs() -> int:  # Create All Plant Jobs
     # Evening Data Collection
     jobs.append(
         cron.new(
-            command='export PYTHONPATH=/home/plant/code/CareForMyPlant; /usr/bin/python3 /home/plant/code/CareForMyPlant/src/jobs/collect_data.py >> /home/plant/logs/logs.txt 2>&1',
+            command=f'export PYTHONPATH=/home/plant/{env}/CareForMyPlant; /usr/bin/python3 '
+                    f'/home/plant/{env}/CareForMyPlant/src/jobs/collect_data.py >> /home/plant/logs/logs.txt 2>&1',
             comment=f"Cron Job Created At: {now}")
     )
     jobs[-1].setall('0 16 * * *')  # At 4pm Every Day
@@ -44,7 +54,8 @@ def create_jobs() -> int:  # Create All Plant Jobs
     # Night Data Collection
     jobs.append(
         cron.new(
-            command='export PYTHONPATH=/home/plant/code/CareForMyPlant; /usr/bin/python3 /home/plant/code/CareForMyPlant/src/jobs/collect_data.py >> /home/plant/logs/logs.txt 2>&1',
+            command=f'export PYTHONPATH=/home/plant/{env}/CareForMyPlant; /usr/bin/python3 '
+                    f'/home/plant/{env}/CareForMyPlant/src/jobs/collect_data.py >> /home/plant/logs/logs.txt 2>&1',
             comment=f"Cron Job Created At: {now}")
     )
     jobs[-1].setall('0 0 * * *')  # At 12am Every Day
