@@ -31,6 +31,3 @@ if create_jobs() == 0:
 
 ### TESTING SECTION ####
 # print("\n\n\nTESTING!!!\n\n\n")
-#reddit.create_poll(25)
-# #reddit.tally_votes()
-#print(reddit.get_water_history(15))
