@@ -1,10 +1,9 @@
 import os
 from crontab import CronTab
 from datetime import datetime
-from dotenv import load_dotenv
+
 cron = CronTab(user='plant')
-load_dotenv()
-env = os.getenv("ENV")
+env = "prod" if '/prod/' in os.path.dirname(__file__) else "dev"
 
 
 def clear_all_jobs() -> int:  # Clear all Plant Jobs
