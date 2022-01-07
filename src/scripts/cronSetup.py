@@ -67,8 +67,7 @@ def create_jobs() -> int:  # Create All Plant Jobs
                     f'mongoexport --collection=votes --db=plant --out=/home/plant/usb/votes.json',
             comment=f"Cron Job Created At: {now} | Evening Data Collection")
     )
-    #jobs[-1].setall('30 1 * * *')  # At 1:30am Every Day
-    jobs[-1].setall('54 21 * * *')  # At 1:30am Every Day
+    jobs[-1].setall('30 1 * * *')  # At 1:30am Every Day
 
     if env == 'prod':
         # Git Pulling new updates
