@@ -65,7 +65,7 @@ def create_jobs() -> int:  # Create All Plant Jobs
             command=f'mongoexport --collection=data --db=plant --out=/home/plant/usb/data.json;'
                     f'mongoexport --collection=users --db=plant --out=/home/plant/usb/users.json;'
                     f'mongoexport --collection=votes --db=plant --out=/home/plant/usb/votes.json',
-            comment=f"Cron Job Created At: {now} | Evening Data Collection")
+            comment=f"Cron Job Created At: {now} | Data Backup")
     )
     jobs[-1].setall('30 1 * * *')  # At 1:30am Every Day
 
