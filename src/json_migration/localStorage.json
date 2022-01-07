@@ -1,0 +1,6276 @@
+{
+  "PostID": "ro4lts",
+  "SecondsWatered": 1239,
+  "WaterHistory": [
+    {
+      "date": "21-03-25",
+      "vote": 1
+    },
+    {
+      "date": "21-03-26",
+      "vote": 0
+    },
+    {
+      "date": "21-03-27",
+      "vote": 0
+    },
+    {
+      "date": "21-03-28",
+      "vote": 0
+    },
+    {
+      "date": "21-03-29",
+      "vote": 1
+    },
+    {
+      "date": "21-03-30",
+      "vote": 0
+    },
+    {
+      "date": "21-03-31",
+      "vote": 0
+    },
+    {
+      "date": "21-04-01",
+      "vote": 0
+    },
+    {
+      "date": "21-04-02",
+      "vote": 0
+    },
+    {
+      "date": "21-04-03",
+      "vote": 1
+    },
+    {
+      "date": "21-04-04",
+      "vote": 0
+    },
+    {
+      "date": "21-04-05",
+      "vote": 0
+    },
+    {
+      "date": "21-04-06",
+      "vote": 0
+    },
+    {
+      "date": "21-04-07",
+      "vote": 1
+    },
+    {
+      "date": "21-04-08",
+      "vote": 0
+    },
+    {
+      "date": "21-04-09",
+      "vote": 0
+    },
+    {
+      "date": "21-04-10",
+      "vote": 1
+    },
+    {
+      "date": "21-04-11",
+      "vote": 0
+    },
+    {
+      "date": "21-04-12",
+      "vote": 0
+    },
+    {
+      "date": "21-04-13",
+      "vote": 0
+    },
+    {
+      "date": "21-04-14",
+      "vote": 1
+    },
+    {
+      "date": "21-04-15",
+      "vote": 0
+    },
+    {
+      "date": "21-04-16",
+      "vote": 0
+    },
+    {
+      "date": "21-04-17",
+      "vote": 0
+    },
+    {
+      "date": "21-04-18",
+      "vote": 1
+    },
+    {
+      "date": "21-04-19",
+      "vote": 0
+    },
+    {
+      "date": "21-04-20",
+      "vote": 0
+    },
+    {
+      "date": "21-04-21",
+      "vote": 1
+    },
+    {
+      "date": "21-04-22",
+      "vote": 0
+    },
+    {
+      "date": "21-04-23",
+      "vote": 0
+    },
+    {
+      "date": "21-04-24",
+      "vote": 1
+    },
+    {
+      "date": "21-04-25",
+      "vote": 0
+    },
+    {
+      "date": "21-04-26",
+      "vote": 1
+    },
+    {
+      "date": "21-04-27",
+      "vote": 0
+    },
+    {
+      "date": "21-04-28",
+      "vote": 0
+    },
+    {
+      "date": "21-04-29",
+      "vote": 1
+    },
+    {
+      "date": "21-04-30",
+      "vote": 0
+    },
+    {
+      "date": "21-05-01",
+      "vote": 0
+    },
+    {
+      "date": "21-05-02",
+      "vote": 1
+    },
+    {
+      "date": "21-05-03",
+      "vote": 0
+    },
+    {
+      "date": "21-05-04",
+      "vote": 0
+    },
+    {
+      "date": "21-05-05",
+      "vote": 1
+    },
+    {
+      "date": "21-05-06",
+      "vote": 0
+    },
+    {
+      "date": "21-05-07",
+      "vote": 0
+    },
+    {
+      "date": "21-05-08",
+      "vote": 1
+    },
+    {
+      "date": "21-05-09",
+      "vote": 0
+    },
+    {
+      "date": "21-05-10",
+      "vote": 0
+    },
+    {
+      "date": "21-05-11",
+      "vote": 1
+    },
+    {
+      "date": "21-05-12",
+      "vote": 0
+    },
+    {
+      "date": "21-05-13",
+      "vote": 0
+    },
+    {
+      "date": "21-05-14",
+      "vote": 1
+    },
+    {
+      "date": "21-05-15",
+      "vote": 0
+    },
+    {
+      "date": "21-05-16",
+      "vote": 0
+    },
+    {
+      "date": "21-05-17",
+      "vote": 1
+    },
+    {
+      "date": "21-05-18",
+      "vote": 0
+    },
+    {
+      "date": "21-05-19",
+      "vote": 0
+    },
+    {
+      "date": "21-05-20",
+      "vote": 1
+    },
+    {
+      "date": "21-05-21",
+      "vote": 0
+    },
+    {
+      "date": "21-05-22",
+      "vote": 0
+    },
+    {
+      "date": "21-05-23",
+      "vote": 1
+    },
+    {
+      "date": "21-05-24",
+      "vote": 0
+    },
+    {
+      "date": "21-05-25",
+      "vote": 0
+    },
+    {
+      "date": "21-05-26",
+      "vote": 1
+    },
+    {
+      "date": "21-05-27",
+      "vote": 0
+    },
+    {
+      "date": "21-05-28",
+      "vote": 0
+    },
+    {
+      "date": "21-05-29",
+      "vote": 1
+    },
+    {
+      "date": "21-05-30",
+      "vote": 0
+    },
+    {
+      "date": "21-05-31",
+      "vote": 0
+    },
+    {
+      "date": "21-06-01",
+      "vote": 1
+    },
+    {
+      "date": "21-06-02",
+      "vote": 0
+    },
+    {
+      "date": "21-06-03",
+      "vote": 0
+    },
+    {
+      "date": "21-06-04",
+      "vote": 1
+    },
+    {
+      "date": "21-06-05",
+      "vote": 0
+    },
+    {
+      "date": "21-06-06",
+      "vote": 0
+    },
+    {
+      "date": "21-06-07",
+      "vote": 1
+    },
+    {
+      "date": "21-06-08",
+      "vote": 0
+    },
+    {
+      "date": "21-06-09",
+      "vote": 0
+    },
+    {
+      "date": "21-06-10",
+      "vote": 1
+    },
+    {
+      "date": "21-06-11",
+      "vote": 0
+    },
+    {
+      "date": "21-06-12",
+      "vote": 0
+    },
+    {
+      "date": "21-06-13",
+      "vote": 1
+    },
+    {
+      "date": "21-06-14",
+      "vote": 1
+    },
+    {
+      "date": "21-06-15",
+      "vote": 0
+    },
+    {
+      "date": "21-06-16",
+      "vote": 0
+    },
+    {
+      "date": "21-06-17",
+      "vote": 0
+    },
+    {
+      "date": "21-06-18",
+      "vote": 1
+    },
+    {
+      "date": "21-06-19",
+      "vote": 1
+    },
+    {
+      "date": "21-06-23",
+      "vote": 0
+    },
+    {
+      "date": "21-06-24",
+      "vote": 1
+    },
+    {
+      "date": "21-06-25",
+      "vote": 0
+    },
+    {
+      "date": "21-06-26",
+      "vote": 0
+    },
+    {
+      "date": "21-06-27",
+      "vote": 1
+    },
+    {
+      "date": "21-06-28",
+      "vote": 0
+    },
+    {
+      "date": "21-06-29",
+      "vote": 0
+    },
+    {
+      "date": "21-06-30",
+      "vote": 1
+    },
+    {
+      "date": "21-07-01",
+      "vote": 1
+    },
+    {
+      "date": "21-07-02",
+      "vote": 0
+    },
+    {
+      "date": "21-07-03",
+      "vote": 0
+    },
+    {
+      "date": "21-07-04",
+      "vote": 1
+    },
+    {
+      "date": "21-07-05",
+      "vote": 0
+    },
+    {
+      "date": "21-07-06",
+      "vote": 1
+    },
+    {
+      "date": "21-07-07",
+      "vote": 0
+    },
+    {
+      "date": "21-07-08",
+      "vote": 0
+    },
+    {
+      "date": "21-07-09",
+      "vote": 0
+    },
+    {
+      "date": "21-07-10",
+      "vote": 0
+    },
+    {
+      "date": "21-07-11",
+      "vote": 1
+    },
+    {
+      "date": "21-07-12",
+      "vote": 1
+    },
+    {
+      "date": "21-07-13",
+      "vote": 0
+    },
+    {
+      "date": "21-07-14",
+      "vote": 0
+    },
+    {
+      "date": "21-07-15",
+      "vote": 1
+    },
+    {
+      "date": "21-07-16",
+      "vote": 1
+    },
+    {
+      "date": "21-07-17",
+      "vote": 0
+    },
+    {
+      "date": "21-07-19",
+      "vote": 1
+    },
+    {
+      "date": "21-07-20",
+      "vote": 0
+    },
+    {
+      "date": "21-07-21",
+      "vote": 0
+    },
+    {
+      "date": "21-07-22",
+      "vote": 1
+    },
+    {
+      "date": "21-07-23",
+      "vote": 0
+    },
+    {
+      "date": "21-07-24",
+      "vote": 0
+    },
+    {
+      "date": "21-07-25",
+      "vote": 0
+    },
+    {
+      "date": "21-07-26",
+      "vote": 1
+    },
+    {
+      "date": "21-07-27",
+      "vote": 0
+    },
+    {
+      "date": "21-07-28",
+      "vote": 0
+    },
+    {
+      "date": "21-07-29",
+      "vote": 0
+    },
+    {
+      "date": "21-07-30",
+      "vote": 0
+    },
+    {
+      "date": "21-07-31",
+      "vote": 1
+    },
+    {
+      "date": "21-08-01",
+      "vote": 0
+    },
+    {
+      "date": "21-08-02",
+      "vote": 1
+    },
+    {
+      "date": "21-08-03",
+      "vote": 0
+    },
+    {
+      "date": "21-08-04",
+      "vote": 0
+    },
+    {
+      "date": "21-08-05",
+      "vote": 1
+    },
+    {
+      "date": "21-08-06",
+      "vote": 0
+    },
+    {
+      "date": "21-08-07",
+      "vote": 0
+    },
+    {
+      "date": "21-08-08",
+      "vote": 1
+    },
+    {
+      "date": "21-08-09",
+      "vote": 0
+    },
+    {
+      "date": "21-08-10",
+      "vote": 0
+    },
+    {
+      "date": "21-08-11",
+      "vote": 1
+    },
+    {
+      "date": "21-08-12",
+      "vote": 0
+    },
+    {
+      "date": "21-08-13",
+      "vote": 0
+    },
+    {
+      "date": "21-08-14",
+      "vote": 1
+    },
+    {
+      "date": "21-08-15",
+      "vote": 0
+    },
+    {
+      "date": "21-08-16",
+      "vote": 0
+    },
+    {
+      "date": "21-08-17",
+      "vote": 1
+    },
+    {
+      "date": "21-08-18",
+      "vote": 0
+    },
+    {
+      "date": "21-08-19",
+      "vote": 0
+    },
+    {
+      "date": "21-08-20",
+      "vote": 1
+    },
+    {
+      "date": "21-08-21",
+      "vote": 0
+    },
+    {
+      "date": "21-08-22",
+      "vote": 0
+    },
+    {
+      "date": "21-08-23",
+      "vote": 1
+    },
+    {
+      "date": "21-08-24",
+      "vote": 0
+    },
+    {
+      "date": "21-08-25",
+      "vote": 0
+    },
+    {
+      "date": "21-08-26",
+      "vote": 1
+    },
+    {
+      "date": "21-08-27",
+      "vote": 0
+    },
+    {
+      "date": "21-08-28",
+      "vote": 0
+    },
+    {
+      "date": "21-08-29",
+      "vote": 1
+    },
+    {
+      "date": "21-08-30",
+      "vote": 0
+    },
+    {
+      "date": "21-08-31",
+      "vote": 0
+    },
+    {
+      "date": "21-09-01",
+      "vote": 1
+    },
+    {
+      "date": "21-09-02",
+      "vote": 0
+    },
+    {
+      "date": "21-09-03",
+      "vote": 0
+    },
+    {
+      "date": "21-09-04",
+      "vote": 1
+    },
+    {
+      "date": "21-09-05",
+      "vote": 0
+    },
+    {
+      "date": "21-09-06",
+      "vote": 0
+    },
+    {
+      "date": "21-09-07",
+      "vote": 0
+    },
+    {
+      "date": "21-09-08",
+      "vote": 0
+    },
+    {
+      "date": "21-09-09",
+      "vote": 0
+    },
+    {
+      "date": "21-09-10",
+      "vote": 1
+    },
+    {
+      "date": "21-09-11",
+      "vote": 0
+    },
+    {
+      "date": "21-09-12",
+      "vote": 0
+    },
+    {
+      "date": "21-09-13",
+      "vote": 0
+    },
+    {
+      "date": "21-09-14",
+      "vote": 0
+    },
+    {
+      "date": "21-09-15",
+      "vote": 0
+    },
+    {
+      "date": "21-09-16",
+      "vote": 1
+    },
+    {
+      "date": "21-09-17",
+      "vote": 0
+    },
+    {
+      "date": "21-09-18",
+      "vote": 0
+    },
+    {
+      "date": "21-09-19",
+      "vote": 0
+    },
+    {
+      "date": "21-09-20",
+      "vote": 0
+    },
+    {
+      "date": "21-09-21",
+      "vote": 0
+    },
+    {
+      "date": "21-09-22",
+      "vote": 1
+    },
+    {
+      "date": "21-09-23",
+      "vote": 0
+    },
+    {
+      "date": "21-09-24",
+      "vote": 0
+    },
+    {
+      "date": "21-09-25",
+      "vote": 0
+    },
+    {
+      "date": "21-09-26",
+      "vote": 0
+    },
+    {
+      "date": "21-09-27",
+      "vote": 0
+    },
+    {
+      "date": "21-09-28",
+      "vote": 1
+    },
+    {
+      "date": "21-09-29",
+      "vote": 0
+    },
+    {
+      "date": "21-09-30",
+      "vote": 0
+    },
+    {
+      "date": "21-10-01",
+      "vote": 0
+    },
+    {
+      "date": "21-10-02",
+      "vote": 0
+    },
+    {
+      "date": "21-10-03",
+      "vote": 0
+    },
+    {
+      "date": "21-10-04",
+      "vote": 0
+    },
+    {
+      "date": "21-10-05",
+      "vote": 1
+    },
+    {
+      "date": "21-10-06",
+      "vote": 0
+    },
+    {
+      "date": "21-10-07",
+      "vote": 0
+    },
+    {
+      "date": "21-10-08",
+      "vote": 0
+    },
+    {
+      "date": "21-10-09",
+      "vote": 0
+    },
+    {
+      "date": "21-10-10",
+      "vote": 0
+    },
+    {
+      "date": "21-10-11",
+      "vote": 0
+    },
+    {
+      "date": "21-10-12",
+      "vote": 1
+    },
+    {
+      "date": "21-10-13",
+      "vote": 0
+    },
+    {
+      "date": "21-10-14",
+      "vote": 0
+    },
+    {
+      "date": "21-10-15",
+      "vote": 0
+    },
+    {
+      "date": "21-10-16",
+      "vote": 0
+    },
+    {
+      "date": "21-10-17",
+      "vote": 0
+    },
+    {
+      "date": "21-10-18",
+      "vote": 0
+    },
+    {
+      "date": "21-10-19",
+      "vote": 1
+    },
+    {
+      "date": "21-10-20",
+      "vote": 0
+    },
+    {
+      "date": "21-10-21",
+      "vote": 0
+    },
+    {
+      "date": "21-10-22",
+      "vote": 0
+    },
+    {
+      "date": "21-10-23",
+      "vote": 0
+    },
+    {
+      "date": "21-10-24",
+      "vote": 0
+    },
+    {
+      "date": "21-10-25",
+      "vote": 0
+    },
+    {
+      "date": "21-10-26",
+      "vote": 1
+    },
+    {
+      "date": "21-10-27",
+      "vote": 0
+    },
+    {
+      "date": "21-11-08",
+      "vote": 0
+    },
+    {
+      "date": "21-11-09",
+      "vote": 0
+    },
+    {
+      "date": "21-11-10",
+      "vote": 0
+    },
+    {
+      "date": "21-11-11",
+      "vote": 0
+    },
+    {
+      "date": "21-11-12",
+      "vote": 0
+    },
+    {
+      "date": "21-11-13",
+      "vote": 1
+    },
+    {
+      "date": "21-11-14",
+      "vote": 0
+    },
+    {
+      "date": "21-11-15",
+      "vote": 0
+    },
+    {
+      "date": "21-11-16",
+      "vote": 0
+    },
+    {
+      "date": "21-11-17",
+      "vote": 0
+    },
+    {
+      "date": "21-11-18",
+      "vote": 0
+    },
+    {
+      "date": "21-11-19",
+      "vote": 0
+    },
+    {
+      "date": "21-11-20",
+      "vote": 1
+    },
+    {
+      "date": "21-11-21",
+      "vote": 0
+    },
+    {
+      "date": "21-11-22",
+      "vote": 0
+    },
+    {
+      "date": "21-11-23",
+      "vote": 0
+    },
+    {
+      "date": "21-11-24",
+      "vote": 0
+    },
+    {
+      "date": "21-11-25",
+      "vote": 0
+    },
+    {
+      "date": "21-11-26",
+      "vote": 0
+    },
+    {
+      "date": "21-11-27",
+      "vote": 1
+    },
+    {
+      "date": "21-11-28",
+      "vote": 0
+    },
+    {
+      "date": "21-11-29",
+      "vote": 0
+    },
+    {
+      "date": "21-11-30",
+      "vote": 0
+    },
+    {
+      "date": "21-12-01",
+      "vote": 0
+    },
+    {
+      "date": "21-12-02",
+      "vote": 0
+    },
+    {
+      "date": "21-12-03",
+      "vote": 0
+    },
+    {
+      "date": "21-12-04",
+      "vote": 1
+    },
+    {
+      "date": "21-12-05",
+      "vote": 0
+    },
+    {
+      "date": "21-12-06",
+      "vote": 0
+    },
+    {
+      "date": "21-12-11",
+      "vote": 0
+    },
+    {
+      "date": "21-12-12",
+      "vote": 0
+    },
+    {
+      "date": "21-12-13",
+      "vote": 0
+    },
+    {
+      "date": "21-12-14",
+      "vote": 0
+    },
+    {
+      "date": "21-12-15",
+      "vote": 0
+    },
+    {
+      "date": "21-12-16",
+      "vote": 0
+    },
+    {
+      "date": "21-12-17",
+      "vote": 1
+    },
+    {
+      "date": "21-12-18",
+      "vote": 0
+    },
+    {
+      "date": "21-12-19",
+      "vote": 0
+    },
+    {
+      "date": "21-12-20",
+      "vote": 0
+    },
+    {
+      "date": "21-12-21",
+      "vote": 0
+    },
+    {
+      "date": "21-12-22",
+      "vote": 0
+    },
+    {
+      "date": "21-12-23",
+      "vote": 0
+    },
+    {
+      "date": "21-12-24",
+      "vote": 0
+    }
+  ],
+  "VoterHistory": [
+    {
+      "username": "HeilThePoptartKitty",
+      "yes": 105,
+      "no": 314
+    },
+    {
+      "username": "mxmmix",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "donvoo",
+      "yes": 4,
+      "no": 4
+    },
+    {
+      "username": "vengvong",
+      "yes": 50,
+      "no": 134
+    },
+    {
+      "username": "Suaqe",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "What_is_Sleep",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "Jralloms",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "Balisada",
+      "yes": 62,
+      "no": 288
+    },
+    {
+      "username": "KukukachuGotScrewed",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "MrKarmaPenguin",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "AppleTrees4",
+      "yes": 16,
+      "no": 11
+    },
+    {
+      "username": "Phosphorjr",
+      "yes": 2,
+      "no": 4
+    },
+    {
+      "username": "sweet_potatoes",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "Encrypted_Curse",
+      "yes": 3,
+      "no": 0
+    },
+    {
+      "username": "Jbabz",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "DoubleDonk",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "BigBlackCrucifixion",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "BigBlackCrucifix",
+      "yes": 0,
+      "no": 2
+    },
+    {
+      "username": "RedmondCooper",
+      "yes": 1,
+      "no": 11
+    },
+    {
+      "username": "lespicymeme",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "Pax19",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "dianajx07",
+      "yes": 2,
+      "no": 0
+    },
+    {
+      "username": "meme-man-69",
+      "yes": 6,
+      "no": 1
+    },
+    {
+      "username": "sily_lamson",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "Shadow_Galecross",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "TheRainbowWillow",
+      "yes": 1,
+      "no": 2
+    },
+    {
+      "username": "coyotemidnight",
+      "yes": 1,
+      "no": 7
+    },
+    {
+      "username": "oooOrion",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "lucyh5629",
+      "yes": 5,
+      "no": 16
+    },
+    {
+      "username": "pwasemiller",
+      "yes": 27,
+      "no": 5
+    },
+    {
+      "username": "Interesting_Cut6066",
+      "yes": 3,
+      "no": 0
+    },
+    {
+      "username": "rugbugdug",
+      "yes": 3,
+      "no": 0
+    },
+    {
+      "username": "_-_-_-____--",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "Dazed4Dayzs",
+      "yes": 5,
+      "no": 2
+    },
+    {
+      "username": "useacoster",
+      "yes": 2,
+      "no": 0
+    },
+    {
+      "username": "Buckeye1115",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "kwassa7",
+      "yes": 5,
+      "no": 0
+    },
+    {
+      "username": "letthesmokefly",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "Yuucliwood",
+      "yes": 0,
+      "no": 5
+    },
+    {
+      "username": "tarbender3",
+      "yes": 14,
+      "no": 65
+    },
+    {
+      "username": "MrPhunkyLizard",
+      "yes": 2,
+      "no": 0
+    },
+    {
+      "username": "Running_Lemon",
+      "yes": 42,
+      "no": 38
+    },
+    {
+      "username": "liquidmich",
+      "yes": 9,
+      "no": 133
+    },
+    {
+      "username": "JickRames",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "SidTheGoblinKid",
+      "yes": 3,
+      "no": 1
+    },
+    {
+      "username": "itchy-crabs",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "altoristics",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "WeenieHutJrsMngr98",
+      "yes": 1,
+      "no": 1
+    },
+    {
+      "username": "Wikkispirit",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "watercastles",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "something-sensible",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "peggybackbitch",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "aieythe",
+      "yes": 1,
+      "no": 7
+    },
+    {
+      "username": "Unlucky-Memory",
+      "yes": 4,
+      "no": 0
+    },
+    {
+      "username": "crypticopera",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "pens_and_shame",
+      "yes": 9,
+      "no": 0
+    },
+    {
+      "username": "GeneralBS",
+      "yes": 51,
+      "no": 84
+    },
+    {
+      "username": "f2017k",
+      "yes": 12,
+      "no": 65
+    },
+    {
+      "username": "egnaro2007",
+      "yes": 1,
+      "no": 1
+    },
+    {
+      "username": "the-fake-hentai-god",
+      "yes": 3,
+      "no": 4
+    },
+    {
+      "username": "theCydonian21",
+      "yes": 25,
+      "no": 15
+    },
+    {
+      "username": "gardenbeets",
+      "yes": 22,
+      "no": 90
+    },
+    {
+      "username": "redmooncat15",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "just-a-rock-",
+      "yes": 10,
+      "no": 8
+    },
+    {
+      "username": "Achly97",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "tysenburg",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "Slimedivine",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "HANS0troll",
+      "yes": 1,
+      "no": 2
+    },
+    {
+      "username": "TheAvalonn",
+      "yes": 3,
+      "no": 0
+    },
+    {
+      "username": "Aloysius-13",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "Aloysius13",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "ParaIIeIUniverses",
+      "yes": 0,
+      "no": 3
+    },
+    {
+      "username": "ivna99",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "legend0fhell",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "Lekkersnuiven",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "1800yasatan",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "Sir_Fedgeington",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "poeticdownfall",
+      "yes": 3,
+      "no": 3
+    },
+    {
+      "username": "ReenactorBelgian",
+      "yes": 2,
+      "no": 3
+    },
+    {
+      "username": "yarnmamma",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "INeedToDownVoteYou",
+      "yes": 12,
+      "no": 61
+    },
+    {
+      "username": "PanickingArmistice",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "eclVB",
+      "yes": 2,
+      "no": 0
+    },
+    {
+      "username": "adjkfs",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "KSFL",
+      "yes": 3,
+      "no": 42
+    },
+    {
+      "username": "anonymous19822",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "dearMariah",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "MasterReindeer",
+      "yes": 0,
+      "no": 61
+    },
+    {
+      "username": "Ok_Procedure_1069",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "lurkeylurkerton",
+      "yes": 0,
+      "no": 12
+    },
+    {
+      "username": "SMAMtastic",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "jake_hanley",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "rassle_ross",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "KawaiiFoxPlays",
+      "yes": 2,
+      "no": 0
+    },
+    {
+      "username": "TheBossJNK",
+      "yes": 1,
+      "no": 1
+    },
+    {
+      "username": "granculo94",
+      "yes": 1,
+      "no": 3
+    },
+    {
+      "username": "w2dv",
+      "yes": 2,
+      "no": 0
+    },
+    {
+      "username": "Robbzter",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "Natsume_Takashi",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "monsterbeasts",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "havanatea",
+      "yes": 5,
+      "no": 76
+    },
+    {
+      "username": "meshushi",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "Imaginary_Guarantee",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "yiiike",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "bishoujo688",
+      "yes": 22,
+      "no": 1
+    },
+    {
+      "username": "Roffler967",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "evsadoodles",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "ventscalmes",
+      "yes": 13,
+      "no": 52
+    },
+    {
+      "username": "bowties-dontblink",
+      "yes": 19,
+      "no": 13
+    },
+    {
+      "username": "OGDark_Doggo",
+      "yes": 2,
+      "no": 0
+    },
+    {
+      "username": "LavaLampWax",
+      "yes": 1,
+      "no": 2
+    },
+    {
+      "username": "sillysnowbird",
+      "yes": 3,
+      "no": 16
+    },
+    {
+      "username": "kamegani",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "K174",
+      "yes": 0,
+      "no": 14
+    },
+    {
+      "username": "p_light",
+      "yes": 8,
+      "no": 3
+    },
+    {
+      "username": "ohshallots",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "watremelons",
+      "yes": 1,
+      "no": 9
+    },
+    {
+      "username": "hhan55",
+      "yes": 10,
+      "no": 42
+    },
+    {
+      "username": "Hunter37594",
+      "yes": 1,
+      "no": 2
+    },
+    {
+      "username": "LilBluCommi",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "BodybuilderUnhappy16",
+      "yes": 1,
+      "no": 2
+    },
+    {
+      "username": "pambannedfromchilis",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "-mutt",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "REN_dragon_3",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "thelongestusernameee",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "APileOfSadPigeons",
+      "yes": 3,
+      "no": 0
+    },
+    {
+      "username": "Undying-Plant",
+      "yes": 0,
+      "no": 2
+    },
+    {
+      "username": "stupid_monkey12",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "forumkid",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "Rusted_Blunders",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "Alternative-Meat609",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "Dobler97",
+      "yes": 7,
+      "no": 26
+    },
+    {
+      "username": "KestrelRocket",
+      "yes": 2,
+      "no": 0
+    },
+    {
+      "username": "smoldikkk",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "Realistic_Cry_1505",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "indianblanket",
+      "yes": 2,
+      "no": 10
+    },
+    {
+      "username": "dadadadadadaaaad",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "dollsburn",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "disobedientAF",
+      "yes": 0,
+      "no": 1
+    },
+    {
+      "username": "lom117",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "lun4d0r4",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "arrgots",
+      "yes": 1,
+      "no": 0
+    },
+    {
+      "username": "YES_ROBOT",
+      "yes": 1,
+      "no": 0
+    }
+  ],
+  "PlantData": [
+    {
+      "timestamp": "04/05 11:00",
+      "temp": 20.6,
+      "topMoist": 59,
+      "bottomMoist": 92.619,
+      "light": 1171,
+      "conduct": 505,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/05 17:10",
+      "temp": 21.7,
+      "topMoist": 61,
+      "bottomMoist": 92.384,
+      "light": 576,
+      "conduct": 550,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/06 11:00",
+      "temp": 21.1,
+      "topMoist": 58,
+      "bottomMoist": 91.208,
+      "light": 497,
+      "conduct": 551,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/06 17:10",
+      "temp": 23.5,
+      "topMoist": 59,
+      "bottomMoist": 90.737,
+      "light": 560,
+      "conduct": 579,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/07 11:00",
+      "temp": 21.5,
+      "topMoist": 56,
+      "bottomMoist": 90.032,
+      "light": 463,
+      "conduct": 566,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/07 17:10",
+      "temp": 25.3,
+      "topMoist": 59,
+      "bottomMoist": 88.855,
+      "light": 560,
+      "conduct": 576,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/08 11:00",
+      "temp": 21.1,
+      "topMoist": 54,
+      "bottomMoist": 88.855,
+      "light": 904,
+      "conduct": 569,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/08 17:10",
+      "temp": 22.5,
+      "topMoist": 54,
+      "bottomMoist": 88.385,
+      "light": 575,
+      "conduct": 571,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/09 11:00",
+      "temp": 22.4,
+      "topMoist": 50,
+      "bottomMoist": 86.738,
+      "light": 1281,
+      "conduct": 540,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/09 17:10",
+      "temp": 24.6,
+      "topMoist": 52,
+      "bottomMoist": 86.033,
+      "light": 544,
+      "conduct": 564,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/10 11:00",
+      "temp": 20.8,
+      "topMoist": 47,
+      "bottomMoist": 85.327,
+      "light": 607,
+      "conduct": 527,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/10 17:10",
+      "temp": 23.4,
+      "topMoist": 50,
+      "bottomMoist": 84.151,
+      "light": 544,
+      "conduct": 553,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/11 11:00",
+      "temp": 19.7,
+      "topMoist": 44,
+      "bottomMoist": 83.916,
+      "light": 4639,
+      "conduct": 507,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/11 17:10",
+      "temp": 22.0,
+      "topMoist": 79,
+      "bottomMoist": 97.794,
+      "light": 532,
+      "conduct": 885,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/12 11:00",
+      "temp": 20.4,
+      "topMoist": 73,
+      "bottomMoist": 96.618,
+      "light": 1903,
+      "conduct": 1006,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/12 17:10",
+      "temp": 23.4,
+      "topMoist": 75,
+      "bottomMoist": 95.912,
+      "light": 654,
+      "conduct": 1015,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/13 11:00",
+      "temp": 21.0,
+      "topMoist": 90,
+      "bottomMoist": 97.559,
+      "light": 955,
+      "conduct": 1307,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/13 17:10",
+      "temp": 21.8,
+      "topMoist": 89,
+      "bottomMoist": 96.618,
+      "light": 673,
+      "conduct": 1321,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/14 11:00",
+      "temp": 21.0,
+      "topMoist": 82,
+      "bottomMoist": 96.383,
+      "light": 783,
+      "conduct": 1125,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/14 17:10",
+      "temp": 23.2,
+      "topMoist": 100,
+      "bottomMoist": 87.915,
+      "light": 924,
+      "conduct": 1784,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/15 11:00",
+      "temp": 20.8,
+      "topMoist": 100,
+      "bottomMoist": 97.089,
+      "light": 814,
+      "conduct": 1661,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/15 17:10",
+      "temp": 23.2,
+      "topMoist": 100,
+      "bottomMoist": 96.618,
+      "light": 936,
+      "conduct": 1686,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/16 11:00",
+      "temp": 21.5,
+      "topMoist": 100,
+      "bottomMoist": 97.559,
+      "light": 1034,
+      "conduct": 1693,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/16 17:10",
+      "temp": 23.3,
+      "topMoist": 100,
+      "bottomMoist": 97.089,
+      "light": 544,
+      "conduct": 1725,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/17 11:00",
+      "temp": 21.2,
+      "topMoist": 100,
+      "bottomMoist": 97.794,
+      "light": 1888,
+      "conduct": 1722,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/17 17:10",
+      "temp": 23.1,
+      "topMoist": 100,
+      "bottomMoist": 96.618,
+      "light": 532,
+      "conduct": 1787,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/18 11:00",
+      "temp": 21.0,
+      "topMoist": 100,
+      "bottomMoist": 98.03,
+      "light": 1612,
+      "conduct": 1744,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/18 17:10",
+      "temp": 24.0,
+      "topMoist": 100,
+      "bottomMoist": 97.559,
+      "light": 591,
+      "conduct": 1806,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/19 11:00",
+      "temp": 21.3,
+      "topMoist": 100,
+      "bottomMoist": 98.265,
+      "light": 1778,
+      "conduct": 1807,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/19 17:10",
+      "temp": 23.5,
+      "topMoist": 100,
+      "bottomMoist": 97.559,
+      "light": 480,
+      "conduct": 1822,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/20 11:00",
+      "temp": 20.9,
+      "topMoist": 97,
+      "bottomMoist": 97.559,
+      "light": 4595,
+      "conduct": 1750,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/20 17:10",
+      "temp": 23.2,
+      "topMoist": 98,
+      "bottomMoist": 97.324,
+      "light": 544,
+      "conduct": 1760,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/21 11:00",
+      "temp": 21.2,
+      "topMoist": 95,
+      "bottomMoist": 97.794,
+      "light": 2395,
+      "conduct": 1714,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/21 17:10",
+      "temp": 23.3,
+      "topMoist": 100,
+      "bottomMoist": 97.559,
+      "light": 544,
+      "conduct": 1865,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/22 11:00",
+      "temp": 21.2,
+      "topMoist": 97,
+      "bottomMoist": 97.324,
+      "light": 2879,
+      "conduct": 1741,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/22 17:10",
+      "temp": 24.0,
+      "topMoist": 98,
+      "bottomMoist": 96.853,
+      "light": 512,
+      "conduct": 1739,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/23 11:00",
+      "temp": 21.2,
+      "topMoist": 94,
+      "bottomMoist": 97.324,
+      "light": 1993,
+      "conduct": 1704,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/23 17:10",
+      "temp": 23.4,
+      "topMoist": 95,
+      "bottomMoist": 96.618,
+      "light": 641,
+      "conduct": 1699,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/24 11:00",
+      "temp": 19.3,
+      "topMoist": 92,
+      "bottomMoist": 97.324,
+      "light": 563,
+      "conduct": 1717,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/24 17:10",
+      "temp": 21.8,
+      "topMoist": 99,
+      "bottomMoist": 97.794,
+      "light": 579,
+      "conduct": 1786,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/25 11:00",
+      "temp": 20.3,
+      "topMoist": 93,
+      "bottomMoist": 97.559,
+      "light": 641,
+      "conduct": 1678,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/25 17:10",
+      "temp": 21.0,
+      "topMoist": 93,
+      "bottomMoist": 97.559,
+      "light": 829,
+      "conduct": 1689,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/26 11:00",
+      "temp": 19.3,
+      "topMoist": 91,
+      "bottomMoist": 97.559,
+      "light": 502,
+      "conduct": 1672,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/26 17:10",
+      "temp": 19.8,
+      "topMoist": 100,
+      "bottomMoist": 95.442,
+      "light": 369,
+      "conduct": 1854,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/27 11:00",
+      "temp": 20.0,
+      "topMoist": 97,
+      "bottomMoist": 96.383,
+      "light": 845,
+      "conduct": 1545,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/27 17:10",
+      "temp": 23.1,
+      "topMoist": 100,
+      "bottomMoist": 96.618,
+      "light": 498,
+      "conduct": 1552,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/28 11:00",
+      "temp": 20.9,
+      "topMoist": 97,
+      "bottomMoist": 97.324,
+      "light": 2025,
+      "conduct": 1530,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/28 17:10",
+      "temp": 23.5,
+      "topMoist": 100,
+      "bottomMoist": 97.324,
+      "light": 516,
+      "conduct": 1556,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/29 11:00",
+      "temp": 21.6,
+      "topMoist": 97,
+      "bottomMoist": 98.03,
+      "light": 671,
+      "conduct": 1600,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/29 17:10",
+      "temp": 25.5,
+      "topMoist": 100,
+      "bottomMoist": 98.03,
+      "light": 735,
+      "conduct": 1660,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/30 11:00",
+      "temp": 22.6,
+      "topMoist": 99,
+      "bottomMoist": 98.265,
+      "light": 1018,
+      "conduct": 1690,
+      "battery": 100
+    },
+    {
+      "timestamp": "04/30 17:10",
+      "temp": 25.9,
+      "topMoist": 100,
+      "bottomMoist": 98.03,
+      "light": 951,
+      "conduct": 1659,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/01 11:00",
+      "temp": 22.3,
+      "topMoist": 98,
+      "bottomMoist": 98.971,
+      "light": 810,
+      "conduct": 1749,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/01 17:10",
+      "temp": 23.1,
+      "topMoist": 100,
+      "bottomMoist": 98.971,
+      "light": 463,
+      "conduct": 1775,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/02 11:00",
+      "temp": 22.7,
+      "topMoist": 95,
+      "bottomMoist": 98.265,
+      "light": 1490,
+      "conduct": 1723,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/02 17:10",
+      "temp": 24.2,
+      "topMoist": 100,
+      "bottomMoist": 99.206,
+      "light": 464,
+      "conduct": 1846,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/03 11:00",
+      "temp": 21.3,
+      "topMoist": 97,
+      "bottomMoist": 98.5,
+      "light": 626,
+      "conduct": 1780,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/03 17:10",
+      "temp": 23.5,
+      "topMoist": 98,
+      "bottomMoist": 98.735,
+      "light": 480,
+      "conduct": 1774,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/04 11:00",
+      "temp": 21.8,
+      "topMoist": 94,
+      "bottomMoist": 99.206,
+      "light": 1979,
+      "conduct": 1741,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/04 17:10",
+      "temp": 24.9,
+      "topMoist": 95,
+      "bottomMoist": 99.206,
+      "light": 480,
+      "conduct": 1750,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/05 11:00",
+      "temp": 22.9,
+      "topMoist": 93,
+      "bottomMoist": 98.03,
+      "light": 1778,
+      "conduct": 1746,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/05 17:10",
+      "temp": 25.3,
+      "topMoist": 100,
+      "bottomMoist": 99.911,
+      "light": 512,
+      "conduct": 1856,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/06 11:00",
+      "temp": 22.6,
+      "topMoist": 93,
+      "bottomMoist": 98.265,
+      "light": 904,
+      "conduct": 1726,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/06 17:10",
+      "temp": 28.5,
+      "topMoist": 95,
+      "bottomMoist": 97.089,
+      "light": 557,
+      "conduct": 1648,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/07 11:00",
+      "temp": 22.0,
+      "topMoist": 90,
+      "bottomMoist": 100.0,
+      "light": 1624,
+      "conduct": 1735,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/07 17:10",
+      "temp": 24.1,
+      "topMoist": 91,
+      "bottomMoist": 99.911,
+      "light": 622,
+      "conduct": 1714,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/08 11:00",
+      "temp": 21.0,
+      "topMoist": 86,
+      "bottomMoist": 98.5,
+      "light": 579,
+      "conduct": 1705,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/08 17:10",
+      "temp": 22.4,
+      "topMoist": 94,
+      "bottomMoist": 99.206,
+      "light": 547,
+      "conduct": 1854,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/09 11:00",
+      "temp": 20.1,
+      "topMoist": 88,
+      "bottomMoist": 98.735,
+      "light": 829,
+      "conduct": 1731,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/09 17:10",
+      "temp": 22.3,
+      "topMoist": 90,
+      "bottomMoist": 98.735,
+      "light": 482,
+      "conduct": 1737,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/10 11:00",
+      "temp": 21.5,
+      "topMoist": 87,
+      "bottomMoist": 94.501,
+      "light": 433,
+      "conduct": 1687,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/10 17:10",
+      "temp": 22.9,
+      "topMoist": 88,
+      "bottomMoist": 88.385,
+      "light": 673,
+      "conduct": 1720,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/11 11:00",
+      "temp": 22.1,
+      "topMoist": 85,
+      "bottomMoist": 93.09,
+      "light": 399,
+      "conduct": 1667,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/11 17:10",
+      "temp": 24.4,
+      "topMoist": 98,
+      "bottomMoist": 94.266,
+      "light": 417,
+      "conduct": 1839,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/12 11:00",
+      "temp": 22.4,
+      "topMoist": 89,
+      "bottomMoist": 98.265,
+      "light": 450,
+      "conduct": 1369,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/12 17:10",
+      "temp": 25.1,
+      "topMoist": 90,
+      "bottomMoist": 98.03,
+      "light": 544,
+      "conduct": 1325,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/13 11:00",
+      "temp": 21.8,
+      "topMoist": 85,
+      "bottomMoist": 98.735,
+      "light": 399,
+      "conduct": 1282,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/13 17:10",
+      "temp": 25.9,
+      "topMoist": 86,
+      "bottomMoist": 98.03,
+      "light": 654,
+      "conduct": 1275,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/14 11:00",
+      "temp": 19.2,
+      "topMoist": 80,
+      "bottomMoist": 100.0,
+      "light": 829,
+      "conduct": 1291,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/14 17:10",
+      "temp": 24.3,
+      "topMoist": 86,
+      "bottomMoist": 100.0,
+      "light": 641,
+      "conduct": 1335,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/15 11:00",
+      "temp": 19.2,
+      "topMoist": 80,
+      "bottomMoist": 100.0,
+      "light": 861,
+      "conduct": 1296,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/15 17:10",
+      "temp": 23.2,
+      "topMoist": 81,
+      "bottomMoist": 100.0,
+      "light": 767,
+      "conduct": 1241,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/16 11:00",
+      "temp": 20.6,
+      "topMoist": 78,
+      "bottomMoist": 100.0,
+      "light": 416,
+      "conduct": 1224,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/16 17:10",
+      "temp": 25.5,
+      "topMoist": 81,
+      "bottomMoist": 100.0,
+      "light": 450,
+      "conduct": 1253,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/17 11:00",
+      "temp": 21.8,
+      "topMoist": 78,
+      "bottomMoist": 100.0,
+      "light": 351,
+      "conduct": 1274,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/17 17:10",
+      "temp": 26.7,
+      "topMoist": 86,
+      "bottomMoist": 99.911,
+      "light": 430,
+      "conduct": 1360,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/18 11:00",
+      "temp": 21.4,
+      "topMoist": 79,
+      "bottomMoist": 100.0,
+      "light": 351,
+      "conduct": 1291,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/18 17:10",
+      "temp": 23.5,
+      "topMoist": 79,
+      "bottomMoist": 100.0,
+      "light": 383,
+      "conduct": 1258,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/19 11:00",
+      "temp": 21.2,
+      "topMoist": 75,
+      "bottomMoist": 100.0,
+      "light": 530,
+      "conduct": 1223,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/19 17:10",
+      "temp": 21.9,
+      "topMoist": 76,
+      "bottomMoist": 99.206,
+      "light": 671,
+      "conduct": 1247,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/20 11:00",
+      "temp": 21.1,
+      "topMoist": 73,
+      "bottomMoist": 99.441,
+      "light": 545,
+      "conduct": 1162,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/20 17:10",
+      "temp": 22.5,
+      "topMoist": 79,
+      "bottomMoist": 100.0,
+      "light": 876,
+      "conduct": 1303,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/21 11:00",
+      "temp": 20.0,
+      "topMoist": 75,
+      "bottomMoist": 99.441,
+      "light": 335,
+      "conduct": 1230,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/21 17:10",
+      "temp": 21.0,
+      "topMoist": 75,
+      "bottomMoist": 100.0,
+      "light": 753,
+      "conduct": 1209,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/22 11:00",
+      "temp": 19.1,
+      "topMoist": 71,
+      "bottomMoist": 99.206,
+      "light": 958,
+      "conduct": 1123,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/22 17:10",
+      "temp": 20.2,
+      "topMoist": 73,
+      "bottomMoist": 99.911,
+      "light": 658,
+      "conduct": 1168,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/23 11:00",
+      "temp": 19.3,
+      "topMoist": 70,
+      "bottomMoist": 99.206,
+      "light": 880,
+      "conduct": 1107,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/23 17:10",
+      "temp": 20.8,
+      "topMoist": 85,
+      "bottomMoist": 99.676,
+      "light": 595,
+      "conduct": 1232,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/24 11:00",
+      "temp": 21.4,
+      "topMoist": 77,
+      "bottomMoist": 98.971,
+      "light": 1241,
+      "conduct": 848,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/24 17:10",
+      "temp": 23.3,
+      "topMoist": 77,
+      "bottomMoist": 99.206,
+      "light": 565,
+      "conduct": 833,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/25 11:00",
+      "temp": 21.2,
+      "topMoist": 73,
+      "bottomMoist": 59.922,
+      "light": 753,
+      "conduct": 794,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/25 17:10",
+      "temp": 21.4,
+      "topMoist": 74,
+      "bottomMoist": 62.98,
+      "light": 207,
+      "conduct": 826,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/26 11:00",
+      "temp": 21.4,
+      "topMoist": 73,
+      "bottomMoist": 59.686,
+      "light": 253,
+      "conduct": 847,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/26 17:10",
+      "temp": 23.7,
+      "topMoist": 77,
+      "bottomMoist": 48.63,
+      "light": 336,
+      "conduct": 867,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/27 11:00",
+      "temp": 20.5,
+      "topMoist": 73,
+      "bottomMoist": 55.452,
+      "light": 351,
+      "conduct": 881,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/27 17:10",
+      "temp": 24.7,
+      "topMoist": 76,
+      "bottomMoist": 60.863,
+      "light": 706,
+      "conduct": 889,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/28 11:00",
+      "temp": 21.1,
+      "topMoist": 75,
+      "bottomMoist": 58.746,
+      "light": 287,
+      "conduct": 992,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/28 17:10",
+      "temp": 23.3,
+      "topMoist": 77,
+      "bottomMoist": 58.275,
+      "light": 352,
+      "conduct": 1011,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/29 11:00",
+      "temp": 20.7,
+      "topMoist": 74,
+      "bottomMoist": 45.572,
+      "light": 351,
+      "conduct": 1076,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/29 17:10",
+      "temp": 23.3,
+      "topMoist": 78,
+      "bottomMoist": 54.511,
+      "light": 352,
+      "conduct": 1120,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/30 11:00",
+      "temp": 21.4,
+      "topMoist": 75,
+      "bottomMoist": 71.683,
+      "light": 271,
+      "conduct": 1094,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/30 17:10",
+      "temp": 24.6,
+      "topMoist": 77,
+      "bottomMoist": 70.507,
+      "light": 366,
+      "conduct": 1135,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/31 11:00",
+      "temp": 22.2,
+      "topMoist": 75,
+      "bottomMoist": 97.794,
+      "light": 253,
+      "conduct": 1175,
+      "battery": 100
+    },
+    {
+      "timestamp": "05/31 17:10",
+      "temp": 26.5,
+      "topMoist": 76,
+      "bottomMoist": 88.855,
+      "light": 383,
+      "conduct": 1178,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/01 11:00",
+      "temp": 22.7,
+      "topMoist": 74,
+      "bottomMoist": 100.0,
+      "light": 300,
+      "conduct": 1228,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/01 17:10",
+      "temp": 27.4,
+      "topMoist": 83,
+      "bottomMoist": 64.862,
+      "light": 400,
+      "conduct": 1309,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/02 11:00",
+      "temp": 23.5,
+      "topMoist": 76,
+      "bottomMoist": 100.0,
+      "light": 285,
+      "conduct": 1237,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/02 17:10",
+      "temp": 29.3,
+      "topMoist": 79,
+      "bottomMoist": 72.389,
+      "light": 380,
+      "conduct": 1204,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/03 11:00",
+      "temp": 26.0,
+      "topMoist": 75,
+      "bottomMoist": 89.796,
+      "light": 857,
+      "conduct": 1209,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/03 17:10",
+      "temp": 27.0,
+      "topMoist": 76,
+      "bottomMoist": 100.0,
+      "light": 363,
+      "conduct": 1252,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/04 11:00",
+      "temp": 23.9,
+      "topMoist": 71,
+      "bottomMoist": 100.0,
+      "light": 269,
+      "conduct": 1141,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/04 17:10",
+      "temp": 23.7,
+      "topMoist": 76,
+      "bottomMoist": 100.0,
+      "light": 334,
+      "conduct": 1256,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/05 11:00",
+      "temp": 22.6,
+      "topMoist": 71,
+      "bottomMoist": 100.0,
+      "light": 301,
+      "conduct": 1150,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/05 17:10",
+      "temp": 26.5,
+      "topMoist": 72,
+      "bottomMoist": 100.0,
+      "light": 383,
+      "conduct": 1116,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/06 11:00",
+      "temp": 20.1,
+      "topMoist": 66,
+      "bottomMoist": 78.27,
+      "light": 268,
+      "conduct": 1066,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/06 17:10",
+      "temp": 22.6,
+      "topMoist": 66,
+      "bottomMoist": 60.627,
+      "light": 352,
+      "conduct": 1039,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/07 11:00",
+      "temp": 20.9,
+      "topMoist": 63,
+      "bottomMoist": 61.333,
+      "light": 254,
+      "conduct": 1013,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/07 17:10",
+      "temp": 23.9,
+      "topMoist": 70,
+      "bottomMoist": 63.215,
+      "light": 317,
+      "conduct": 1061,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/08 11:00",
+      "temp": 21.6,
+      "topMoist": 66,
+      "bottomMoist": 60.627,
+      "light": 864,
+      "conduct": 1034,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/08 17:10",
+      "temp": 24.1,
+      "topMoist": 66,
+      "bottomMoist": 57.805,
+      "light": 349,
+      "conduct": 1006,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/09 11:00",
+      "temp": 21.4,
+      "topMoist": 64,
+      "bottomMoist": 57.099,
+      "light": 451,
+      "conduct": 993,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/09 17:10",
+      "temp": 24.1,
+      "topMoist": 64,
+      "bottomMoist": 54.511,
+      "light": 369,
+      "conduct": 945,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/10 11:00",
+      "temp": 19.1,
+      "topMoist": 59,
+      "bottomMoist": 55.923,
+      "light": 321,
+      "conduct": 934,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/10 17:10",
+      "temp": 21.9,
+      "topMoist": 66,
+      "bottomMoist": 58.981,
+      "light": 318,
+      "conduct": 979,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/11 11:00",
+      "temp": 20.9,
+      "topMoist": 61,
+      "bottomMoist": 55.217,
+      "light": 552,
+      "conduct": 924,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/11 17:10",
+      "temp": 23.8,
+      "topMoist": 62,
+      "bottomMoist": 58.04,
+      "light": 303,
+      "conduct": 910,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/12 11:00",
+      "temp": 22.4,
+      "topMoist": 60,
+      "bottomMoist": 55.923,
+      "light": 285,
+      "conduct": 875,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/12 17:10",
+      "temp": 25.9,
+      "topMoist": 61,
+      "bottomMoist": 54.747,
+      "light": 349,
+      "conduct": 836,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/13 11:00",
+      "temp": 23.5,
+      "topMoist": 58,
+      "bottomMoist": 55.923,
+      "light": 285,
+      "conduct": 790,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/13 17:10",
+      "temp": 24.0,
+      "topMoist": 86,
+      "bottomMoist": 47.454,
+      "light": 300,
+      "conduct": 1234,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/14 11:00",
+      "temp": 23.1,
+      "topMoist": 73,
+      "bottomMoist": 54.276,
+      "light": 257,
+      "conduct": 838,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/14 17:10",
+      "temp": 23.9,
+      "topMoist": 75,
+      "bottomMoist": 47.69,
+      "light": 287,
+      "conduct": 818,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/15 11:00",
+      "temp": 23.2,
+      "topMoist": 73,
+      "bottomMoist": 57.569,
+      "light": 285,
+      "conduct": 757,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/15 17:10",
+      "temp": 23.6,
+      "topMoist": 73,
+      "bottomMoist": 47.219,
+      "light": 319,
+      "conduct": 781,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/16 11:00",
+      "temp": 21.9,
+      "topMoist": 73,
+      "bottomMoist": 51.688,
+      "light": 273,
+      "conduct": 821,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/16 17:10",
+      "temp": 24.6,
+      "topMoist": 74,
+      "bottomMoist": 54.276,
+      "light": 303,
+      "conduct": 835,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/17 11:00",
+      "temp": 21.7,
+      "topMoist": 73,
+      "bottomMoist": 52.159,
+      "light": 273,
+      "conduct": 917,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/17 17:10",
+      "temp": 23.8,
+      "topMoist": 75,
+      "bottomMoist": 45.572,
+      "light": 271,
+      "conduct": 933,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/18 11:00",
+      "temp": 25.5,
+      "topMoist": 73,
+      "bottomMoist": 49.336,
+      "light": 254,
+      "conduct": 930,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/18 17:10",
+      "temp": 27.6,
+      "topMoist": 80,
+      "bottomMoist": 48.63,
+      "light": 284,
+      "conduct": 1000,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/19 11:00",
+      "temp": 26.3,
+      "topMoist": 73,
+      "bottomMoist": 50.277,
+      "light": 256,
+      "conduct": 922,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/19 17:10",
+      "temp": 23.1,
+      "topMoist": 77,
+      "bottomMoist": 42.75,
+      "light": 285,
+      "conduct": 1019,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/20 11:00",
+      "temp": 27.9,
+      "topMoist": 73,
+      "bottomMoist": 48.866,
+      "light": 317,
+      "conduct": 899,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/23 11:00",
+      "temp": 23.4,
+      "topMoist": 69,
+      "bottomMoist": 100.0,
+      "light": 273,
+      "conduct": 985,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/23 17:10",
+      "temp": 24.3,
+      "topMoist": 70,
+      "bottomMoist": 100.0,
+      "light": 385,
+      "conduct": 1002,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/24 11:00",
+      "temp": 23.4,
+      "topMoist": 68,
+      "bottomMoist": 100.0,
+      "light": 254,
+      "conduct": 981,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/24 17:10",
+      "temp": 24.0,
+      "topMoist": 73,
+      "bottomMoist": 100.0,
+      "light": 301,
+      "conduct": 1079,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/25 11:00",
+      "temp": 23.6,
+      "topMoist": 70,
+      "bottomMoist": 100.0,
+      "light": 226,
+      "conduct": 1015,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/25 17:10",
+      "temp": 24.6,
+      "topMoist": 70,
+      "bottomMoist": 100.0,
+      "light": 289,
+      "conduct": 1018,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/26 11:00",
+      "temp": 23.9,
+      "topMoist": 69,
+      "bottomMoist": 100.0,
+      "light": 226,
+      "conduct": 988,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/26 17:10",
+      "temp": 25.5,
+      "topMoist": 70,
+      "bottomMoist": 100.0,
+      "light": 304,
+      "conduct": 984,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/27 11:00",
+      "temp": 24.0,
+      "topMoist": 66,
+      "bottomMoist": 100.0,
+      "light": 226,
+      "conduct": 930,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/27 17:10",
+      "temp": 24.5,
+      "topMoist": 71,
+      "bottomMoist": 100.0,
+      "light": 321,
+      "conduct": 1003,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/28 11:00",
+      "temp": 23.8,
+      "topMoist": 67,
+      "bottomMoist": 100.0,
+      "light": 226,
+      "conduct": 935,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/28 17:10",
+      "temp": 25.3,
+      "topMoist": 67,
+      "bottomMoist": 100.0,
+      "light": 303,
+      "conduct": 935,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/29 11:00",
+      "temp": 24.5,
+      "topMoist": 64,
+      "bottomMoist": 100.0,
+      "light": 240,
+      "conduct": 877,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/29 17:10",
+      "temp": 26.1,
+      "topMoist": 64,
+      "bottomMoist": 100.0,
+      "light": 338,
+      "conduct": 860,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/30 11:00",
+      "temp": 25.0,
+      "topMoist": 60,
+      "bottomMoist": 100.0,
+      "light": 355,
+      "conduct": 767,
+      "battery": 100
+    },
+    {
+      "timestamp": "06/30 17:10",
+      "temp": 26.1,
+      "topMoist": 69,
+      "bottomMoist": 100.0,
+      "light": 304,
+      "conduct": 920,
+      "battery": 99
+    },
+    {
+      "timestamp": "07/01 11:00",
+      "temp": 24.5,
+      "topMoist": 60,
+      "bottomMoist": 100.0,
+      "light": 256,
+      "conduct": 790,
+      "battery": 99
+    },
+    {
+      "timestamp": "07/01 17:10",
+      "temp": 26.1,
+      "topMoist": 69,
+      "bottomMoist": 100.0,
+      "light": 599,
+      "conduct": 914,
+      "battery": 99
+    },
+    {
+      "timestamp": "07/02 11:00",
+      "temp": 24.6,
+      "topMoist": 60,
+      "bottomMoist": 100.0,
+      "light": 272,
+      "conduct": 782,
+      "battery": 99
+    },
+    {
+      "timestamp": "07/02 17:10",
+      "temp": 25.5,
+      "topMoist": 60,
+      "bottomMoist": 100.0,
+      "light": 336,
+      "conduct": 756,
+      "battery": 99
+    },
+    {
+      "timestamp": "07/03 11:00",
+      "temp": 24.4,
+      "topMoist": 57,
+      "bottomMoist": 100.0,
+      "light": 339,
+      "conduct": 657,
+      "battery": 99
+    },
+    {
+      "timestamp": "07/03 17:10",
+      "temp": 25.3,
+      "topMoist": 55,
+      "bottomMoist": 100.0,
+      "light": 436,
+      "conduct": 645,
+      "battery": 99
+    },
+    {
+      "timestamp": "07/04 11:00",
+      "temp": 23.0,
+      "topMoist": 51,
+      "bottomMoist": 100.0,
+      "light": 537,
+      "conduct": 560,
+      "battery": 99
+    },
+    {
+      "timestamp": "07/04 17:10",
+      "temp": 24.0,
+      "topMoist": 50,
+      "bottomMoist": 100.0,
+      "light": 743,
+      "conduct": 545,
+      "battery": 98
+    },
+    {
+      "timestamp": "07/05 11:00",
+      "temp": 24.2,
+      "topMoist": 48,
+      "bottomMoist": 100.0,
+      "light": 291,
+      "conduct": 484,
+      "battery": 98
+    },
+    {
+      "timestamp": "07/05 17:10",
+      "temp": 24.9,
+      "topMoist": 46,
+      "bottomMoist": 100.0,
+      "light": 339,
+      "conduct": 474,
+      "battery": 98
+    },
+    {
+      "timestamp": "07/06 11:00",
+      "temp": 24.7,
+      "topMoist": 44,
+      "bottomMoist": 100.0,
+      "light": 291,
+      "conduct": 415,
+      "battery": 98
+    },
+    {
+      "timestamp": "07/06 17:10",
+      "temp": 26.1,
+      "topMoist": 42,
+      "bottomMoist": 100.0,
+      "light": 551,
+      "conduct": 402,
+      "battery": 98
+    },
+    {
+      "timestamp": "07/07 11:00",
+      "temp": 23.5,
+      "topMoist": 40,
+      "bottomMoist": 100.0,
+      "light": 338,
+      "conduct": 369,
+      "battery": 98
+    },
+    {
+      "timestamp": "07/07 17:10",
+      "temp": 25.6,
+      "topMoist": 38,
+      "bottomMoist": 100.0,
+      "light": 369,
+      "conduct": 348,
+      "battery": 98
+    },
+    {
+      "timestamp": "07/08 11:00",
+      "temp": 24.1,
+      "topMoist": 35,
+      "bottomMoist": 100.0,
+      "light": 321,
+      "conduct": 329,
+      "battery": 98
+    },
+    {
+      "timestamp": "07/08 17:10",
+      "temp": 26.7,
+      "topMoist": 35,
+      "bottomMoist": 100.0,
+      "light": 336,
+      "conduct": 313,
+      "battery": 98
+    },
+    {
+      "timestamp": "07/09 11:00",
+      "temp": 24.2,
+      "topMoist": 32,
+      "bottomMoist": 100.0,
+      "light": 338,
+      "conduct": 306,
+      "battery": 97
+    },
+    {
+      "timestamp": "07/09 17:10",
+      "temp": 27.4,
+      "topMoist": 32,
+      "bottomMoist": 100.0,
+      "light": 322,
+      "conduct": 293,
+      "battery": 97
+    },
+    {
+      "timestamp": "07/10 11:00",
+      "temp": 24.0,
+      "topMoist": 28,
+      "bottomMoist": 100.0,
+      "light": 375,
+      "conduct": 287,
+      "battery": 97
+    },
+    {
+      "timestamp": "07/10 17:10",
+      "temp": 26.4,
+      "topMoist": 28,
+      "bottomMoist": 100.0,
+      "light": 406,
+      "conduct": 284,
+      "battery": 97
+    },
+    {
+      "timestamp": "07/11 11:00",
+      "temp": 24.4,
+      "topMoist": 26,
+      "bottomMoist": 100.0,
+      "light": 552,
+      "conduct": 271,
+      "battery": 97
+    },
+    {
+      "timestamp": "07/11 17:10",
+      "temp": 25.7,
+      "topMoist": 79,
+      "bottomMoist": 100.0,
+      "light": 584,
+      "conduct": 991,
+      "battery": 97
+    },
+    {
+      "timestamp": "07/12 11:00",
+      "temp": 23.6,
+      "topMoist": 59,
+      "bottomMoist": 100.0,
+      "light": 475,
+      "conduct": 608,
+      "battery": 97
+    },
+    {
+      "timestamp": "07/12 17:10",
+      "temp": 25.7,
+      "topMoist": 62,
+      "bottomMoist": 100.0,
+      "light": 488,
+      "conduct": 645,
+      "battery": 97
+    },
+    {
+      "timestamp": "07/13 11:00",
+      "temp": 24.4,
+      "topMoist": 57,
+      "bottomMoist": 100.0,
+      "light": 524,
+      "conduct": 593,
+      "battery": 97
+    },
+    {
+      "timestamp": "07/13 17:10",
+      "temp": 23.8,
+      "topMoist": 57,
+      "bottomMoist": 100.0,
+      "light": 524,
+      "conduct": 587,
+      "battery": 95
+    },
+    {
+      "timestamp": "07/14 11:00",
+      "temp": 23.0,
+      "topMoist": 55,
+      "bottomMoist": 100.0,
+      "light": 474,
+      "conduct": 560,
+      "battery": 95
+    },
+    {
+      "timestamp": "07/14 17:10",
+      "temp": 26.9,
+      "topMoist": 56,
+      "bottomMoist": 100.0,
+      "light": 635,
+      "conduct": 544,
+      "battery": 95
+    },
+    {
+      "timestamp": "07/15 11:00",
+      "temp": 23.5,
+      "topMoist": 53,
+      "bottomMoist": 100.0,
+      "light": 474,
+      "conduct": 531,
+      "battery": 95
+    },
+    {
+      "timestamp": "07/15 17:10",
+      "temp": 24.7,
+      "topMoist": 60,
+      "bottomMoist": 100.0,
+      "light": 458,
+      "conduct": 597,
+      "battery": 95
+    },
+    {
+      "timestamp": "07/16 11:00",
+      "temp": 24.4,
+      "topMoist": 52,
+      "bottomMoist": 100.0,
+      "light": 179,
+      "conduct": 501,
+      "battery": 94
+    },
+    {
+      "timestamp": "07/16 17:10",
+      "temp": 25.6,
+      "topMoist": 59,
+      "bottomMoist": 100.0,
+      "light": 409,
+      "conduct": 558,
+      "battery": 94
+    },
+    {
+      "timestamp": "07/17 11:00",
+      "temp": 23.4,
+      "topMoist": 52,
+      "bottomMoist": 100.0,
+      "light": 509,
+      "conduct": 496,
+      "battery": 93
+    },
+    {
+      "timestamp": "07/17 17:10",
+      "temp": 24.4,
+      "topMoist": 52,
+      "bottomMoist": 100.0,
+      "light": 508,
+      "conduct": 488,
+      "battery": 93
+    },
+    {
+      "timestamp": "07/18 11:00",
+      "temp": 24.4,
+      "topMoist": 50,
+      "bottomMoist": 100.0,
+      "light": 522,
+      "conduct": 446,
+      "battery": 93
+    },
+    {
+      "timestamp": "07/18 17:10",
+      "temp": 24.6,
+      "topMoist": 48,
+      "bottomMoist": 100.0,
+      "light": 538,
+      "conduct": 424,
+      "battery": 93
+    },
+    {
+      "timestamp": "07/19 11:00",
+      "temp": 25.9,
+      "topMoist": 47,
+      "bottomMoist": 100.0,
+      "light": 776,
+      "conduct": 382,
+      "battery": 93
+    },
+    {
+      "timestamp": "07/19 17:10",
+      "temp": 24.6,
+      "topMoist": 45,
+      "bottomMoist": 100.0,
+      "light": 474,
+      "conduct": 360,
+      "battery": 93
+    },
+    {
+      "timestamp": "07/20 11:00",
+      "temp": 25.5,
+      "topMoist": 42,
+      "bottomMoist": 100.0,
+      "light": 292,
+      "conduct": 334,
+      "battery": 93
+    },
+    {
+      "timestamp": "07/20 17:10",
+      "temp": 25.6,
+      "topMoist": 41,
+      "bottomMoist": 100.0,
+      "light": 571,
+      "conduct": 319,
+      "battery": 93
+    },
+    {
+      "timestamp": "07/21 11:00",
+      "temp": 25.3,
+      "topMoist": 38,
+      "bottomMoist": 100.0,
+      "light": 460,
+      "conduct": 301,
+      "battery": 93
+    },
+    {
+      "timestamp": "07/21 17:10",
+      "temp": 25.0,
+      "topMoist": 37,
+      "bottomMoist": 100.0,
+      "light": 474,
+      "conduct": 291,
+      "battery": 93
+    },
+    {
+      "timestamp": "07/22 11:00",
+      "temp": 23.7,
+      "topMoist": 33,
+      "bottomMoist": 100.0,
+      "light": 524,
+      "conduct": 274,
+      "battery": 92
+    },
+    {
+      "timestamp": "07/22 17:10",
+      "temp": 24.3,
+      "topMoist": 31,
+      "bottomMoist": 100.0,
+      "light": 509,
+      "conduct": 264,
+      "battery": 92
+    },
+    {
+      "timestamp": "07/23 11:00",
+      "temp": 21.3,
+      "topMoist": 28,
+      "bottomMoist": 100.0,
+      "light": 655,
+      "conduct": 249,
+      "battery": 89
+    },
+    {
+      "timestamp": "07/23 17:10",
+      "temp": 25.1,
+      "topMoist": 28,
+      "bottomMoist": 100.0,
+      "light": 540,
+      "conduct": 236,
+      "battery": 89
+    },
+    {
+      "timestamp": "07/24 11:00",
+      "temp": 22.3,
+      "topMoist": 26,
+      "bottomMoist": 100.0,
+      "light": 361,
+      "conduct": 225,
+      "battery": 89
+    },
+    {
+      "timestamp": "07/24 17:10",
+      "temp": 25.0,
+      "topMoist": 25,
+      "bottomMoist": 100.0,
+      "light": 667,
+      "conduct": 222,
+      "battery": 89
+    },
+    {
+      "timestamp": "07/25 11:00",
+      "temp": 22.4,
+      "topMoist": 23,
+      "bottomMoist": 100.0,
+      "light": 591,
+      "conduct": 208,
+      "battery": 89
+    },
+    {
+      "timestamp": "07/25 17:10",
+      "temp": 29.6,
+      "topMoist": 23,
+      "bottomMoist": 100.0,
+      "light": 716,
+      "conduct": 192,
+      "battery": 89
+    },
+    {
+      "timestamp": "07/26 11:00",
+      "temp": 25.4,
+      "topMoist": 21,
+      "bottomMoist": 100.0,
+      "light": 635,
+      "conduct": 193,
+      "battery": 89
+    },
+    {
+      "timestamp": "07/26 17:10",
+      "temp": 25.7,
+      "topMoist": 21,
+      "bottomMoist": 100.0,
+      "light": 667,
+      "conduct": 187,
+      "battery": 91
+    },
+    {
+      "timestamp": "07/27 11:00",
+      "temp": 24.7,
+      "topMoist": 19,
+      "bottomMoist": 100.0,
+      "light": 702,
+      "conduct": 176,
+      "battery": 91
+    },
+    {
+      "timestamp": "07/27 17:10",
+      "temp": 26.5,
+      "topMoist": 18,
+      "bottomMoist": 100.0,
+      "light": 556,
+      "conduct": 171,
+      "battery": 91
+    },
+    {
+      "timestamp": "07/28 11:00",
+      "temp": 24.9,
+      "topMoist": 17,
+      "bottomMoist": 100.0,
+      "light": 495,
+      "conduct": 161,
+      "battery": 91
+    },
+    {
+      "timestamp": "07/28 17:10",
+      "temp": 24.9,
+      "topMoist": 16,
+      "bottomMoist": 100.0,
+      "light": 344,
+      "conduct": 156,
+      "battery": 91
+    },
+    {
+      "timestamp": "07/29 11:00",
+      "temp": 26.3,
+      "topMoist": 16,
+      "bottomMoist": 100.0,
+      "light": 310,
+      "conduct": 143,
+      "battery": 88
+    },
+    {
+      "timestamp": "07/29 17:10",
+      "temp": 26.7,
+      "topMoist": 15,
+      "bottomMoist": 100.0,
+      "light": 395,
+      "conduct": 140,
+      "battery": 88
+    },
+    {
+      "timestamp": "07/30 11:00",
+      "temp": 25.0,
+      "topMoist": 13,
+      "bottomMoist": 100.0,
+      "light": 359,
+      "conduct": 129,
+      "battery": 88
+    },
+    {
+      "timestamp": "07/30 17:10",
+      "temp": 26.6,
+      "topMoist": 13,
+      "bottomMoist": 100.0,
+      "light": 622,
+      "conduct": 129,
+      "battery": 88
+    },
+    {
+      "timestamp": "07/31 11:00",
+      "temp": 26.1,
+      "topMoist": 12,
+      "bottomMoist": 100.0,
+      "light": 514,
+      "conduct": 116,
+      "battery": 88
+    },
+    {
+      "timestamp": "07/31 17:10",
+      "temp": 31.7,
+      "topMoist": 13,
+      "bottomMoist": 100.0,
+      "light": 623,
+      "conduct": 111,
+      "battery": 88
+    },
+    {
+      "timestamp": "08/01 11:00",
+      "temp": 25.1,
+      "topMoist": 11,
+      "bottomMoist": 100.0,
+      "light": 577,
+      "conduct": 109,
+      "battery": 87
+    },
+    {
+      "timestamp": "08/01 17:10",
+      "temp": 27.2,
+      "topMoist": 11,
+      "bottomMoist": 100.0,
+      "light": 359,
+      "conduct": 105,
+      "battery": 87
+    },
+    {
+      "timestamp": "08/02 11:00",
+      "temp": 24.6,
+      "topMoist": 11,
+      "bottomMoist": 100.0,
+      "light": 446,
+      "conduct": 97,
+      "battery": 86
+    },
+    {
+      "timestamp": "08/02 17:10",
+      "temp": 25.6,
+      "topMoist": 11,
+      "bottomMoist": 100.0,
+      "light": 430,
+      "conduct": 97,
+      "battery": 86
+    },
+    {
+      "timestamp": "08/03 11:00",
+      "temp": 24.8,
+      "topMoist": 10,
+      "bottomMoist": 100.0,
+      "light": 576,
+      "conduct": 88,
+      "battery": 86
+    },
+    {
+      "timestamp": "08/03 17:10",
+      "temp": 26.7,
+      "topMoist": 10,
+      "bottomMoist": 100.0,
+      "light": 1138,
+      "conduct": 89,
+      "battery": 86
+    },
+    {
+      "timestamp": "08/04 11:00",
+      "temp": 26.0,
+      "topMoist": 9,
+      "bottomMoist": 100.0,
+      "light": 463,
+      "conduct": 79,
+      "battery": 86
+    },
+    {
+      "timestamp": "08/04 17:10",
+      "temp": 27.5,
+      "topMoist": 8,
+      "bottomMoist": 100.0,
+      "light": 642,
+      "conduct": 79,
+      "battery": 86
+    },
+    {
+      "timestamp": "08/05 11:00",
+      "temp": 24.2,
+      "topMoist": 8,
+      "bottomMoist": 100.0,
+      "light": 692,
+      "conduct": 69,
+      "battery": 86
+    },
+    {
+      "timestamp": "08/05 17:10",
+      "temp": 25.5,
+      "topMoist": 7,
+      "bottomMoist": 100.0,
+      "light": 800,
+      "conduct": 68,
+      "battery": 86
+    },
+    {
+      "timestamp": "08/06 11:00",
+      "temp": 24.5,
+      "topMoist": 7,
+      "bottomMoist": 100.0,
+      "light": 1221,
+      "conduct": 60,
+      "battery": 83
+    },
+    {
+      "timestamp": "08/06 17:10",
+      "temp": 25.7,
+      "topMoist": 7,
+      "bottomMoist": 100.0,
+      "light": 1205,
+      "conduct": 56,
+      "battery": 83
+    },
+    {
+      "timestamp": "08/07 11:00",
+      "temp": 23.7,
+      "topMoist": 7,
+      "bottomMoist": 100.0,
+      "light": 400,
+      "conduct": 49,
+      "battery": 82
+    },
+    {
+      "timestamp": "08/07 17:10",
+      "temp": 29.0,
+      "topMoist": 7,
+      "bottomMoist": 100.0,
+      "light": 529,
+      "conduct": 46,
+      "battery": 82
+    },
+    {
+      "timestamp": "08/08 11:00",
+      "temp": 25.3,
+      "topMoist": 6,
+      "bottomMoist": 100.0,
+      "light": 502,
+      "conduct": 38,
+      "battery": 83
+    },
+    {
+      "timestamp": "08/08 17:10",
+      "temp": 28.9,
+      "topMoist": 6,
+      "bottomMoist": 100.0,
+      "light": 661,
+      "conduct": 35,
+      "battery": 83
+    },
+    {
+      "timestamp": "08/09 11:00",
+      "temp": 20.8,
+      "topMoist": 5,
+      "bottomMoist": 20.167,
+      "light": 285,
+      "conduct": 28,
+      "battery": 80
+    },
+    {
+      "timestamp": "08/09 17:10",
+      "temp": 26.3,
+      "topMoist": 5,
+      "bottomMoist": 16.639,
+      "light": 551,
+      "conduct": 27,
+      "battery": 80
+    },
+    {
+      "timestamp": "08/10 11:00",
+      "temp": 22.0,
+      "topMoist": 5,
+      "bottomMoist": 20.402,
+      "light": 314,
+      "conduct": 23,
+      "battery": 80
+    },
+    {
+      "timestamp": "08/10 17:10",
+      "temp": 28.6,
+      "topMoist": 6,
+      "bottomMoist": 16.874,
+      "light": 743,
+      "conduct": 24,
+      "battery": 80
+    },
+    {
+      "timestamp": "08/11 11:00",
+      "temp": 24.1,
+      "topMoist": 5,
+      "bottomMoist": 17.815,
+      "light": 297,
+      "conduct": 19,
+      "battery": 81
+    },
+    {
+      "timestamp": "08/11 17:10",
+      "temp": 32.0,
+      "topMoist": 6,
+      "bottomMoist": 13.581,
+      "light": 548,
+      "conduct": 18,
+      "battery": 81
+    },
+    {
+      "timestamp": "08/12 11:00",
+      "temp": 24.8,
+      "topMoist": 5,
+      "bottomMoist": 14.286,
+      "light": 331,
+      "conduct": 12,
+      "battery": 81
+    },
+    {
+      "timestamp": "08/12 17:10",
+      "temp": 28.3,
+      "topMoist": 5,
+      "bottomMoist": 11.934,
+      "light": 583,
+      "conduct": 13,
+      "battery": 81
+    },
+    {
+      "timestamp": "08/13 11:00",
+      "temp": 24.4,
+      "topMoist": 5,
+      "bottomMoist": 12.404,
+      "light": 727,
+      "conduct": 9,
+      "battery": 81
+    },
+    {
+      "timestamp": "08/13 17:10",
+      "temp": 26.8,
+      "topMoist": 5,
+      "bottomMoist": 10.993,
+      "light": 807,
+      "conduct": 7,
+      "battery": 81
+    },
+    {
+      "timestamp": "08/14 11:00",
+      "temp": 24.0,
+      "topMoist": 5,
+      "bottomMoist": 11.463,
+      "light": 745,
+      "conduct": 6,
+      "battery": 81
+    },
+    {
+      "timestamp": "08/14 17:10",
+      "temp": 25.1,
+      "topMoist": 5,
+      "bottomMoist": 10.523,
+      "light": 810,
+      "conduct": 5,
+      "battery": 80
+    },
+    {
+      "timestamp": "08/15 11:00",
+      "temp": 23.5,
+      "topMoist": 4,
+      "bottomMoist": 10.523,
+      "light": 761,
+      "conduct": 5,
+      "battery": 80
+    },
+    {
+      "timestamp": "08/15 17:10",
+      "temp": 25.7,
+      "topMoist": 4,
+      "bottomMoist": 9.346,
+      "light": 826,
+      "conduct": 2,
+      "battery": 79
+    },
+    {
+      "timestamp": "08/16 11:00",
+      "temp": 23.8,
+      "topMoist": 4,
+      "bottomMoist": 9.582,
+      "light": 684,
+      "conduct": 3,
+      "battery": 79
+    },
+    {
+      "timestamp": "08/16 17:10",
+      "temp": 27.6,
+      "topMoist": 5,
+      "bottomMoist": 14.051,
+      "light": 890,
+      "conduct": 2,
+      "battery": 80
+    },
+    {
+      "timestamp": "08/17 11:00",
+      "temp": 22.9,
+      "topMoist": 4,
+      "bottomMoist": 15.462,
+      "light": 716,
+      "conduct": 3,
+      "battery": 80
+    },
+    {
+      "timestamp": "08/17 17:10",
+      "temp": 26.7,
+      "topMoist": 4,
+      "bottomMoist": 14.286,
+      "light": 761,
+      "conduct": 2,
+      "battery": 79
+    },
+    {
+      "timestamp": "08/18 11:00",
+      "temp": 22.4,
+      "topMoist": 4,
+      "bottomMoist": 14.992,
+      "light": 537,
+      "conduct": 2,
+      "battery": 79
+    },
+    {
+      "timestamp": "08/18 17:10",
+      "temp": 26.4,
+      "topMoist": 4,
+      "bottomMoist": 13.345,
+      "light": 764,
+      "conduct": 1,
+      "battery": 79
+    },
+    {
+      "timestamp": "08/19 11:00",
+      "temp": 21.6,
+      "topMoist": 4,
+      "bottomMoist": 14.051,
+      "light": 817,
+      "conduct": 2,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/19 17:10",
+      "temp": 25.8,
+      "topMoist": 4,
+      "bottomMoist": 12.404,
+      "light": 780,
+      "conduct": 1,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/20 11:00",
+      "temp": 22.2,
+      "topMoist": 4,
+      "bottomMoist": 13.11,
+      "light": 670,
+      "conduct": 1,
+      "battery": 75
+    },
+    {
+      "timestamp": "08/20 17:10",
+      "temp": 27.2,
+      "topMoist": 4,
+      "bottomMoist": 11.699,
+      "light": 975,
+      "conduct": 0,
+      "battery": 75
+    },
+    {
+      "timestamp": "08/21 11:00",
+      "temp": 24.0,
+      "topMoist": 4,
+      "bottomMoist": 12.404,
+      "light": 732,
+      "conduct": 2,
+      "battery": 75
+    },
+    {
+      "timestamp": "08/21 17:10",
+      "temp": 26.9,
+      "topMoist": 4,
+      "bottomMoist": 10.993,
+      "light": 732,
+      "conduct": 1,
+      "battery": 75
+    },
+    {
+      "timestamp": "08/22 11:00",
+      "temp": 22.7,
+      "topMoist": 4,
+      "bottomMoist": 11.934,
+      "light": 303,
+      "conduct": 2,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/22 17:10",
+      "temp": 27.3,
+      "topMoist": 4,
+      "bottomMoist": 9.817,
+      "light": 651,
+      "conduct": 1,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/23 11:00",
+      "temp": 23.4,
+      "topMoist": 4,
+      "bottomMoist": 10.523,
+      "light": 622,
+      "conduct": 1,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/23 17:10",
+      "temp": 27.5,
+      "topMoist": 4,
+      "bottomMoist": 8.641,
+      "light": 732,
+      "conduct": 1,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/24 11:00",
+      "temp": 21.9,
+      "topMoist": 3,
+      "bottomMoist": 9.582,
+      "light": 508,
+      "conduct": 1,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/24 17:10",
+      "temp": 26.5,
+      "topMoist": 4,
+      "bottomMoist": 7.935,
+      "light": 751,
+      "conduct": 0,
+      "battery": 75
+    },
+    {
+      "timestamp": "08/25 11:00",
+      "temp": 22.1,
+      "topMoist": 3,
+      "bottomMoist": 8.641,
+      "light": 705,
+      "conduct": 1,
+      "battery": 75
+    },
+    {
+      "timestamp": "08/25 17:10",
+      "temp": 26.3,
+      "topMoist": 4,
+      "bottomMoist": 7.229,
+      "light": 689,
+      "conduct": 1,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/26 11:00",
+      "temp": 22.6,
+      "topMoist": 3,
+      "bottomMoist": 7.935,
+      "light": 639,
+      "conduct": 1,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/26 17:10",
+      "temp": 27.4,
+      "topMoist": 4,
+      "bottomMoist": 6.288,
+      "light": 508,
+      "conduct": 0,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/27 11:00",
+      "temp": 23.2,
+      "topMoist": 3,
+      "bottomMoist": 6.759,
+      "light": 260,
+      "conduct": 1,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/27 17:10",
+      "temp": 27.4,
+      "topMoist": 3,
+      "bottomMoist": 5.583,
+      "light": 525,
+      "conduct": 0,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/28 11:00",
+      "temp": 22.6,
+      "topMoist": 3,
+      "bottomMoist": 6.524,
+      "light": 260,
+      "conduct": 1,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/28 17:10",
+      "temp": 27.4,
+      "topMoist": 3,
+      "bottomMoist": 5.112,
+      "light": 508,
+      "conduct": 0,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/29 11:00",
+      "temp": 22.3,
+      "topMoist": 2,
+      "bottomMoist": 5.818,
+      "light": 258,
+      "conduct": 2,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/29 17:10",
+      "temp": 29.0,
+      "topMoist": 3,
+      "bottomMoist": 4.171,
+      "light": 670,
+      "conduct": 1,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/30 11:00",
+      "temp": 21.9,
+      "topMoist": 2,
+      "bottomMoist": 5.112,
+      "light": 561,
+      "conduct": 1,
+      "battery": 74
+    },
+    {
+      "timestamp": "08/30 17:10",
+      "temp": 27.5,
+      "topMoist": 3,
+      "bottomMoist": 3.936,
+      "light": 654,
+      "conduct": 1,
+      "battery": 73
+    },
+    {
+      "timestamp": "08/31 11:00",
+      "temp": 20.6,
+      "topMoist": 2,
+      "bottomMoist": 4.171,
+      "light": 564,
+      "conduct": 2,
+      "battery": 73
+    },
+    {
+      "timestamp": "08/31 17:10",
+      "temp": 25.5,
+      "topMoist": 2,
+      "bottomMoist": 3.23,
+      "light": 542,
+      "conduct": 1,
+      "battery": 72
+    },
+    {
+      "timestamp": "09/01 11:00",
+      "temp": 19.9,
+      "topMoist": 3,
+      "bottomMoist": 3.936,
+      "light": 295,
+      "conduct": 1,
+      "battery": 72
+    },
+    {
+      "timestamp": "09/01 17:10",
+      "temp": 25.0,
+      "topMoist": 2,
+      "bottomMoist": 2.995,
+      "light": 577,
+      "conduct": 0,
+      "battery": 70
+    },
+    {
+      "timestamp": "09/02 11:00",
+      "temp": 19.9,
+      "topMoist": 3,
+      "bottomMoist": 3.701,
+      "light": 501,
+      "conduct": 1,
+      "battery": 70
+    },
+    {
+      "timestamp": "09/02 17:10",
+      "temp": 24.1,
+      "topMoist": 2,
+      "bottomMoist": 2.995,
+      "light": 545,
+      "conduct": 0,
+      "battery": 68
+    },
+    {
+      "timestamp": "09/03 11:00",
+      "temp": 20.5,
+      "topMoist": 3,
+      "bottomMoist": 3.701,
+      "light": 246,
+      "conduct": 1,
+      "battery": 68
+    },
+    {
+      "timestamp": "09/03 17:10",
+      "temp": 25.7,
+      "topMoist": 2,
+      "bottomMoist": 2.525,
+      "light": 446,
+      "conduct": 0,
+      "battery": 69
+    },
+    {
+      "timestamp": "09/04 11:00",
+      "temp": 21.0,
+      "topMoist": 3,
+      "bottomMoist": 2.995,
+      "light": 279,
+      "conduct": 1,
+      "battery": 69
+    },
+    {
+      "timestamp": "09/04 17:10",
+      "temp": 27.2,
+      "topMoist": 2,
+      "bottomMoist": 9.817,
+      "light": 655,
+      "conduct": 0,
+      "battery": 69
+    },
+    {
+      "timestamp": "09/05 11:00",
+      "temp": 20.4,
+      "topMoist": 4,
+      "bottomMoist": 21.343,
+      "light": 430,
+      "conduct": 2,
+      "battery": 63
+    },
+    {
+      "timestamp": "09/05 17:10",
+      "temp": 26.9,
+      "topMoist": 4,
+      "bottomMoist": 19.226,
+      "light": 561,
+      "conduct": 1,
+      "battery": 63
+    },
+    {
+      "timestamp": "09/06 11:00",
+      "temp": 21.4,
+      "topMoist": 4,
+      "bottomMoist": 20.873,
+      "light": 500,
+      "conduct": 1,
+      "battery": 64
+    },
+    {
+      "timestamp": "09/06 17:10",
+      "temp": 26.0,
+      "topMoist": 50,
+      "bottomMoist": 77.799,
+      "light": 889,
+      "conduct": 1300,
+      "battery": 68
+    },
+    {
+      "timestamp": "09/07 11:00",
+      "temp": 21.5,
+      "topMoist": 48,
+      "bottomMoist": 78.505,
+      "light": 1007,
+      "conduct": 1264,
+      "battery": 68
+    },
+    {
+      "timestamp": "09/07 17:10",
+      "temp": 27.1,
+      "topMoist": 50,
+      "bottomMoist": 78.976,
+      "light": 790,
+      "conduct": 1198,
+      "battery": 68
+    },
+    {
+      "timestamp": "09/08 11:00",
+      "temp": 21.7,
+      "topMoist": 50,
+      "bottomMoist": 77.799,
+      "light": 647,
+      "conduct": 1384,
+      "battery": 68
+    },
+    {
+      "timestamp": "09/08 17:10",
+      "temp": 26.9,
+      "topMoist": 50,
+      "bottomMoist": 78.27,
+      "light": 674,
+      "conduct": 1276,
+      "battery": 68
+    },
+    {
+      "timestamp": "09/09 11:00",
+      "temp": 22.2,
+      "topMoist": 50,
+      "bottomMoist": 78.035,
+      "light": 1105,
+      "conduct": 1425,
+      "battery": 68
+    },
+    {
+      "timestamp": "09/09 17:10",
+      "temp": 27.5,
+      "topMoist": 50,
+      "bottomMoist": 77.094,
+      "light": 1117,
+      "conduct": 1313,
+      "battery": 68
+    },
+    {
+      "timestamp": "09/10 11:00",
+      "temp": 23.1,
+      "topMoist": 51,
+      "bottomMoist": 79.446,
+      "light": 211,
+      "conduct": 1499,
+      "battery": 68
+    },
+    {
+      "timestamp": "09/10 17:10",
+      "temp": 23.1,
+      "topMoist": 52,
+      "bottomMoist": 81.328,
+      "light": 262,
+      "conduct": 1570,
+      "battery": 63
+    },
+    {
+      "timestamp": "09/11 11:00",
+      "temp": 20.8,
+      "topMoist": 47,
+      "bottomMoist": 81.328,
+      "light": 1289,
+      "conduct": 1281,
+      "battery": 63
+    },
+    {
+      "timestamp": "09/11 17:10",
+      "temp": 25.0,
+      "topMoist": 47,
+      "bottomMoist": 80.622,
+      "light": 534,
+      "conduct": 1188,
+      "battery": 64
+    },
+    {
+      "timestamp": "09/12 11:00",
+      "temp": 21.1,
+      "topMoist": 46,
+      "bottomMoist": 81.093,
+      "light": 948,
+      "conduct": 1237,
+      "battery": 64
+    },
+    {
+      "timestamp": "09/12 17:10",
+      "temp": 25.0,
+      "topMoist": 47,
+      "bottomMoist": 80.387,
+      "light": 661,
+      "conduct": 1206,
+      "battery": 64
+    },
+    {
+      "timestamp": "09/13 11:00",
+      "temp": 21.4,
+      "topMoist": 47,
+      "bottomMoist": 80.858,
+      "light": 431,
+      "conduct": 1328,
+      "battery": 61
+    },
+    {
+      "timestamp": "09/13 17:10",
+      "temp": 25.5,
+      "topMoist": 48,
+      "bottomMoist": 78.74,
+      "light": 811,
+      "conduct": 1267,
+      "battery": 61
+    },
+    {
+      "timestamp": "09/14 11:00",
+      "temp": 20.9,
+      "topMoist": 47,
+      "bottomMoist": 80.858,
+      "light": 280,
+      "conduct": 1397,
+      "battery": 58
+    },
+    {
+      "timestamp": "09/14 17:10",
+      "temp": 25.0,
+      "topMoist": 48,
+      "bottomMoist": 79.446,
+      "light": 380,
+      "conduct": 1320,
+      "battery": 58
+    },
+    {
+      "timestamp": "09/15 11:00",
+      "temp": 20.7,
+      "topMoist": 47,
+      "bottomMoist": 80.622,
+      "light": 329,
+      "conduct": 1405,
+      "battery": 58
+    },
+    {
+      "timestamp": "09/15 17:10",
+      "temp": 25.1,
+      "topMoist": 48,
+      "bottomMoist": 80.152,
+      "light": 395,
+      "conduct": 1336,
+      "battery": 58
+    },
+    {
+      "timestamp": "09/16 11:00",
+      "temp": 21.1,
+      "topMoist": 48,
+      "bottomMoist": 80.622,
+      "light": 348,
+      "conduct": 1428,
+      "battery": 58
+    },
+    {
+      "timestamp": "09/16 17:10",
+      "temp": 24.4,
+      "topMoist": 50,
+      "bottomMoist": 81.798,
+      "light": 363,
+      "conduct": 1460,
+      "battery": 62
+    },
+    {
+      "timestamp": "09/17 11:00",
+      "temp": 18.7,
+      "topMoist": 45,
+      "bottomMoist": 81.328,
+      "light": 441,
+      "conduct": 1214,
+      "battery": 62
+    },
+    {
+      "timestamp": "09/17 17:10",
+      "temp": 23.0,
+      "topMoist": 45,
+      "bottomMoist": 81.093,
+      "light": 470,
+      "conduct": 1115,
+      "battery": 60
+    },
+    {
+      "timestamp": "09/18 11:00",
+      "temp": 21.1,
+      "topMoist": 45,
+      "bottomMoist": 80.387,
+      "light": 1134,
+      "conduct": 1190,
+      "battery": 60
+    },
+    {
+      "timestamp": "09/18 17:10",
+      "temp": 22.8,
+      "topMoist": 45,
+      "bottomMoist": 80.622,
+      "light": 181,
+      "conduct": 1161,
+      "battery": 58
+    },
+    {
+      "timestamp": "09/19 11:00",
+      "temp": 19.8,
+      "topMoist": 44,
+      "bottomMoist": 81.798,
+      "light": 301,
+      "conduct": 1171,
+      "battery": 58
+    },
+    {
+      "timestamp": "09/19 17:10",
+      "temp": 21.6,
+      "topMoist": 44,
+      "bottomMoist": 81.328,
+      "light": 753,
+      "conduct": 1133,
+      "battery": 56
+    },
+    {
+      "timestamp": "09/20 11:00",
+      "temp": 17.8,
+      "topMoist": 42,
+      "bottomMoist": 81.093,
+      "light": 301,
+      "conduct": 1120,
+      "battery": 56
+    },
+    {
+      "timestamp": "09/20 17:10",
+      "temp": 22.2,
+      "topMoist": 44,
+      "bottomMoist": 80.387,
+      "light": 332,
+      "conduct": 1079,
+      "battery": 56
+    },
+    {
+      "timestamp": "09/21 11:00",
+      "temp": 18.2,
+      "topMoist": 42,
+      "bottomMoist": 80.622,
+      "light": 287,
+      "conduct": 1117,
+      "battery": 56
+    },
+    {
+      "timestamp": "09/21 17:10",
+      "temp": 22.5,
+      "topMoist": 44,
+      "bottomMoist": 80.152,
+      "light": 296,
+      "conduct": 1054,
+      "battery": 56
+    },
+    {
+      "timestamp": "09/22 11:00",
+      "temp": 19.1,
+      "topMoist": 42,
+      "bottomMoist": 78.505,
+      "light": 494,
+      "conduct": 1079,
+      "battery": 51
+    },
+    {
+      "timestamp": "09/22 17:10",
+      "temp": 22.5,
+      "topMoist": 47,
+      "bottomMoist": 82.504,
+      "light": 403,
+      "conduct": 1254,
+      "battery": 51
+    },
+    {
+      "timestamp": "09/23 11:00",
+      "temp": 19.8,
+      "topMoist": 40,
+      "bottomMoist": 81.563,
+      "light": 458,
+      "conduct": 974,
+      "battery": 50
+    },
+    {
+      "timestamp": "09/23 17:10",
+      "temp": 23.5,
+      "topMoist": 41,
+      "bottomMoist": 80.387,
+      "light": 312,
+      "conduct": 951,
+      "battery": 50
+    },
+    {
+      "timestamp": "09/24 11:00",
+      "temp": 19.8,
+      "topMoist": 40,
+      "bottomMoist": 80.622,
+      "light": 318,
+      "conduct": 964,
+      "battery": 50
+    },
+    {
+      "timestamp": "09/24 17:10",
+      "temp": 24.3,
+      "topMoist": 41,
+      "bottomMoist": 76.859,
+      "light": 329,
+      "conduct": 915,
+      "battery": 50
+    },
+    {
+      "timestamp": "09/25 11:00",
+      "temp": 20.7,
+      "topMoist": 40,
+      "bottomMoist": 77.329,
+      "light": 318,
+      "conduct": 939,
+      "battery": 51
+    },
+    {
+      "timestamp": "09/25 17:10",
+      "temp": 25.3,
+      "topMoist": 40,
+      "bottomMoist": 76.623,
+      "light": 348,
+      "conduct": 868,
+      "battery": 51
+    },
+    {
+      "timestamp": "09/26 11:00",
+      "temp": 21.3,
+      "topMoist": 39,
+      "bottomMoist": 77.799,
+      "light": 525,
+      "conduct": 896,
+      "battery": 52
+    },
+    {
+      "timestamp": "09/26 17:10",
+      "temp": 25.6,
+      "topMoist": 40,
+      "bottomMoist": 77.329,
+      "light": 399,
+      "conduct": 817,
+      "battery": 52
+    },
+    {
+      "timestamp": "09/27 11:00",
+      "temp": 21.4,
+      "topMoist": 37,
+      "bottomMoist": 81.328,
+      "light": 842,
+      "conduct": 828,
+      "battery": 52
+    },
+    {
+      "timestamp": "09/27 17:10",
+      "temp": 25.8,
+      "topMoist": 37,
+      "bottomMoist": 78.27,
+      "light": 348,
+      "conduct": 756,
+      "battery": 58
+    },
+    {
+      "timestamp": "09/28 11:00",
+      "temp": 20.3,
+      "topMoist": 35,
+      "bottomMoist": 78.976,
+      "light": 268,
+      "conduct": 763,
+      "battery": 58
+    },
+    {
+      "timestamp": "09/28 17:10",
+      "temp": 22.3,
+      "topMoist": 46,
+      "bottomMoist": 82.739,
+      "light": 370,
+      "conduct": 1254,
+      "battery": 54
+    },
+    {
+      "timestamp": "09/29 11:00",
+      "temp": 17.5,
+      "topMoist": 33,
+      "bottomMoist": 80.622,
+      "light": 375,
+      "conduct": 703,
+      "battery": 54
+    },
+    {
+      "timestamp": "09/29 17:10",
+      "temp": 21.7,
+      "topMoist": 32,
+      "bottomMoist": 78.976,
+      "light": 283,
+      "conduct": 624,
+      "battery": 54
+    },
+    {
+      "timestamp": "09/30 11:00",
+      "temp": 16.8,
+      "topMoist": 29,
+      "bottomMoist": 79.917,
+      "light": 342,
+      "conduct": 608,
+      "battery": 43
+    },
+    {
+      "timestamp": "09/30 17:10",
+      "temp": 21.7,
+      "topMoist": 29,
+      "bottomMoist": 76.388,
+      "light": 301,
+      "conduct": 555,
+      "battery": 43
+    },
+    {
+      "timestamp": "10/01 11:00",
+      "temp": 17.7,
+      "topMoist": 28,
+      "bottomMoist": 77.329,
+      "light": 324,
+      "conduct": 558,
+      "battery": 42
+    },
+    {
+      "timestamp": "10/01 17:10",
+      "temp": 22.1,
+      "topMoist": 28,
+      "bottomMoist": 75.682,
+      "light": 659,
+      "conduct": 505,
+      "battery": 42
+    },
+    {
+      "timestamp": "10/02 11:00",
+      "temp": 18.2,
+      "topMoist": 26,
+      "bottomMoist": 75.212,
+      "light": 395,
+      "conduct": 506,
+      "battery": 42
+    },
+    {
+      "timestamp": "10/02 17:10",
+      "temp": 23.1,
+      "topMoist": 27,
+      "bottomMoist": 74.271,
+      "light": 319,
+      "conduct": 465,
+      "battery": 42
+    },
+    {
+      "timestamp": "10/03 11:00",
+      "temp": 18.8,
+      "topMoist": 25,
+      "bottomMoist": 73.095,
+      "light": 308,
+      "conduct": 469,
+      "battery": 44
+    },
+    {
+      "timestamp": "10/03 17:10",
+      "temp": 24.1,
+      "topMoist": 25,
+      "bottomMoist": 73.565,
+      "light": 300,
+      "conduct": 423,
+      "battery": 44
+    },
+    {
+      "timestamp": "10/04 11:00",
+      "temp": 20.1,
+      "topMoist": 23,
+      "bottomMoist": 72.624,
+      "light": 375,
+      "conduct": 425,
+      "battery": 45
+    },
+    {
+      "timestamp": "10/04 17:10",
+      "temp": 24.9,
+      "topMoist": 24,
+      "bottomMoist": 69.802,
+      "light": 317,
+      "conduct": 391,
+      "battery": 45
+    },
+    {
+      "timestamp": "10/05 11:00",
+      "temp": 20.4,
+      "topMoist": 21,
+      "bottomMoist": 71.213,
+      "light": 898,
+      "conduct": 388,
+      "battery": 45
+    },
+    {
+      "timestamp": "10/05 17:10",
+      "temp": 23.5,
+      "topMoist": 40,
+      "bottomMoist": 73.8,
+      "light": 461,
+      "conduct": 972,
+      "battery": 50
+    },
+    {
+      "timestamp": "10/06 11:00",
+      "temp": 20.7,
+      "topMoist": 26,
+      "bottomMoist": 77.329,
+      "light": 855,
+      "conduct": 510,
+      "battery": 50
+    },
+    {
+      "timestamp": "10/06 17:10",
+      "temp": 24.1,
+      "topMoist": 25,
+      "bottomMoist": 76.153,
+      "light": 370,
+      "conduct": 434,
+      "battery": 50
+    },
+    {
+      "timestamp": "10/07 11:00",
+      "temp": 19.3,
+      "topMoist": 21,
+      "bottomMoist": 74.506,
+      "light": 984,
+      "conduct": 391,
+      "battery": 50
+    },
+    {
+      "timestamp": "10/07 17:10",
+      "temp": 22.7,
+      "topMoist": 21,
+      "bottomMoist": 73.095,
+      "light": 389,
+      "conduct": 356,
+      "battery": 50
+    },
+    {
+      "timestamp": "10/08 11:00",
+      "temp": 19.2,
+      "topMoist": 19,
+      "bottomMoist": 72.154,
+      "light": 671,
+      "conduct": 359,
+      "battery": 41
+    },
+    {
+      "timestamp": "10/08 17:10",
+      "temp": 18.6,
+      "topMoist": 19,
+      "bottomMoist": 71.448,
+      "light": 276,
+      "conduct": 358,
+      "battery": 41
+    },
+    {
+      "timestamp": "10/09 11:00",
+      "temp": 17.4,
+      "topMoist": 18,
+      "bottomMoist": 68.39,
+      "light": 521,
+      "conduct": 346,
+      "battery": 35
+    },
+    {
+      "timestamp": "10/09 17:10",
+      "temp": 22.0,
+      "topMoist": 19,
+      "bottomMoist": 68.625,
+      "light": 501,
+      "conduct": 325,
+      "battery": 35
+    },
+    {
+      "timestamp": "10/10 11:00",
+      "temp": 16.6,
+      "topMoist": 29,
+      "bottomMoist": 82.034,
+      "light": 1620,
+      "conduct": 361,
+      "battery": 32
+    },
+    {
+      "timestamp": "10/10 17:10",
+      "temp": 19.7,
+      "topMoist": 28,
+      "bottomMoist": 81.798,
+      "light": 569,
+      "conduct": 340,
+      "battery": 32
+    },
+    {
+      "timestamp": "10/11 11:00",
+      "temp": 19.7,
+      "topMoist": 28,
+      "bottomMoist": 80.858,
+      "light": 841,
+      "conduct": 345,
+      "battery": 38
+    },
+    {
+      "timestamp": "10/11 17:10",
+      "temp": 21.4,
+      "topMoist": 28,
+      "bottomMoist": 80.387,
+      "light": 501,
+      "conduct": 339,
+      "battery": 38
+    },
+    {
+      "timestamp": "10/12 11:00",
+      "temp": 19.5,
+      "topMoist": 26,
+      "bottomMoist": 80.387,
+      "light": 542,
+      "conduct": 351,
+      "battery": 38
+    },
+    {
+      "timestamp": "10/12 17:10",
+      "temp": 22.2,
+      "topMoist": 36,
+      "bottomMoist": 84.151,
+      "light": 275,
+      "conduct": 550,
+      "battery": 38
+    },
+    {
+      "timestamp": "10/13 11:00",
+      "temp": 19.1,
+      "topMoist": 26,
+      "bottomMoist": 81.563,
+      "light": 542,
+      "conduct": 347,
+      "battery": 36
+    },
+    {
+      "timestamp": "10/13 17:10",
+      "temp": 20.1,
+      "topMoist": 28,
+      "bottomMoist": 83.21,
+      "light": 245,
+      "conduct": 371,
+      "battery": 36
+    },
+    {
+      "timestamp": "10/14 11:00",
+      "temp": 19.2,
+      "topMoist": 25,
+      "bottomMoist": 81.798,
+      "light": 843,
+      "conduct": 322,
+      "battery": 35
+    },
+    {
+      "timestamp": "10/14 17:10",
+      "temp": 22.0,
+      "topMoist": 24,
+      "bottomMoist": 80.387,
+      "light": 260,
+      "conduct": 312,
+      "battery": 35
+    },
+    {
+      "timestamp": "10/15 11:00",
+      "temp": 19.8,
+      "topMoist": 23,
+      "bottomMoist": 78.505,
+      "light": 796,
+      "conduct": 318,
+      "battery": 35
+    },
+    {
+      "timestamp": "10/15 17:10",
+      "temp": 23.7,
+      "topMoist": 22,
+      "bottomMoist": 78.035,
+      "light": 241,
+      "conduct": 302,
+      "battery": 43
+    },
+    {
+      "timestamp": "10/16 11:00",
+      "temp": 19.8,
+      "topMoist": 21,
+      "bottomMoist": 78.035,
+      "light": 732,
+      "conduct": 315,
+      "battery": 43
+    },
+    {
+      "timestamp": "10/16 17:10",
+      "temp": 23.7,
+      "topMoist": 28,
+      "bottomMoist": 74.977,
+      "light": 226,
+      "conduct": 359,
+      "battery": 43
+    },
+    {
+      "timestamp": "10/17 11:00",
+      "temp": 20.2,
+      "topMoist": 23,
+      "bottomMoist": 78.976,
+      "light": 1163,
+      "conduct": 340,
+      "battery": 43
+    },
+    {
+      "timestamp": "10/17 17:10",
+      "temp": 23.9,
+      "topMoist": 22,
+      "bottomMoist": 78.27,
+      "light": 273,
+      "conduct": 310,
+      "battery": 42
+    },
+    {
+      "timestamp": "10/18 11:00",
+      "temp": 19.8,
+      "topMoist": 21,
+      "bottomMoist": 75.682,
+      "light": 696,
+      "conduct": 324,
+      "battery": 42
+    },
+    {
+      "timestamp": "10/18 17:10",
+      "temp": 20.8,
+      "topMoist": 20,
+      "bottomMoist": 76.153,
+      "light": 417,
+      "conduct": 314,
+      "battery": 42
+    },
+    {
+      "timestamp": "10/19 11:00",
+      "temp": 19.3,
+      "topMoist": 19,
+      "bottomMoist": 75.447,
+      "light": 952,
+      "conduct": 311,
+      "battery": 31
+    },
+    {
+      "timestamp": "10/19 17:10",
+      "temp": 24.2,
+      "topMoist": 33,
+      "bottomMoist": 82.975,
+      "light": 465,
+      "conduct": 540,
+      "battery": 31
+    },
+    {
+      "timestamp": "10/20 11:00",
+      "temp": 19.4,
+      "topMoist": 23,
+      "bottomMoist": 78.74,
+      "light": 314,
+      "conduct": 327,
+      "battery": 31
+    },
+    {
+      "timestamp": "10/20 17:10",
+      "temp": 21.8,
+      "topMoist": 21,
+      "bottomMoist": 77.564,
+      "light": 265,
+      "conduct": 300,
+      "battery": 31
+    },
+    {
+      "timestamp": "10/21 11:00",
+      "temp": 20.3,
+      "topMoist": 19,
+      "bottomMoist": 92.384,
+      "light": 4359,
+      "conduct": 293,
+      "battery": 32
+    },
+    {
+      "timestamp": "10/21 17:10",
+      "temp": 23.7,
+      "topMoist": 19,
+      "bottomMoist": 86.974,
+      "light": 225,
+      "conduct": 267,
+      "battery": 32
+    },
+    {
+      "timestamp": "10/22 11:00",
+      "temp": 20.5,
+      "topMoist": 19,
+      "bottomMoist": 77.564,
+      "light": 474,
+      "conduct": 285,
+      "battery": 32
+    },
+    {
+      "timestamp": "10/22 17:10",
+      "temp": 19.7,
+      "topMoist": 23,
+      "bottomMoist": 26.989,
+      "light": 128,
+      "conduct": 346,
+      "battery": 32
+    },
+    {
+      "timestamp": "10/23 11:00",
+      "temp": 18.9,
+      "topMoist": 20,
+      "bottomMoist": 82.269,
+      "light": 475,
+      "conduct": 289,
+      "battery": 28
+    },
+    {
+      "timestamp": "10/23 17:10",
+      "temp": 19.1,
+      "topMoist": 19,
+      "bottomMoist": 81.093,
+      "light": 214,
+      "conduct": 281,
+      "battery": 28
+    },
+    {
+      "timestamp": "10/24 11:00",
+      "temp": 17.5,
+      "topMoist": 18,
+      "bottomMoist": 74.977,
+      "light": 252,
+      "conduct": 275,
+      "battery": 27
+    },
+    {
+      "timestamp": "10/24 17:10",
+      "temp": 19.2,
+      "topMoist": 18,
+      "bottomMoist": 74.741,
+      "light": 181,
+      "conduct": 268,
+      "battery": 27
+    },
+    {
+      "timestamp": "10/25 11:00",
+      "temp": 19.4,
+      "topMoist": 18,
+      "bottomMoist": 73.095,
+      "light": 267,
+      "conduct": 274,
+      "battery": 27
+    },
+    {
+      "timestamp": "10/25 17:10",
+      "temp": 19.3,
+      "topMoist": 18,
+      "bottomMoist": 73.095,
+      "light": 351,
+      "conduct": 274,
+      "battery": 27
+    },
+    {
+      "timestamp": "10/26 11:00",
+      "temp": 20.2,
+      "topMoist": 17,
+      "bottomMoist": 70.272,
+      "light": 2907,
+      "conduct": 263,
+      "battery": 27
+    },
+    {
+      "timestamp": "10/26 17:10",
+      "temp": 19.7,
+      "topMoist": 30,
+      "bottomMoist": 79.211,
+      "light": 148,
+      "conduct": 424,
+      "battery": 28
+    },
+    {
+      "timestamp": "10/27 11:00",
+      "temp": 19.9,
+      "topMoist": 22,
+      "bottomMoist": 79.446,
+      "light": 733,
+      "conduct": 246,
+      "battery": 28
+    },
+    {
+      "timestamp": "10/27 17:10",
+      "temp": 22.6,
+      "topMoist": 21,
+      "bottomMoist": 78.505,
+      "light": 437,
+      "conduct": 239,
+      "battery": 33
+    },
+    {
+      "timestamp": "11/07 17:10",
+      "temp": 20.9,
+      "topMoist": 28,
+      "bottomMoist": 88.385,
+      "light": 58,
+      "conduct": 297,
+      "battery": 26
+    },
+    {
+      "timestamp": "11/08 11:00",
+      "temp": 20.4,
+      "topMoist": 26,
+      "bottomMoist": 87.209,
+      "light": 2380,
+      "conduct": 264,
+      "battery": 26
+    },
+    {
+      "timestamp": "11/08 17:10",
+      "temp": 21.2,
+      "topMoist": 25,
+      "bottomMoist": 82.034,
+      "light": 115,
+      "conduct": 272,
+      "battery": 26
+    },
+    {
+      "timestamp": "11/09 11:00",
+      "temp": 18.9,
+      "topMoist": 23,
+      "bottomMoist": 85.327,
+      "light": 203,
+      "conduct": 286,
+      "battery": 26
+    },
+    {
+      "timestamp": "11/09 17:10",
+      "temp": 20.0,
+      "topMoist": 23,
+      "bottomMoist": 84.151,
+      "light": 172,
+      "conduct": 286,
+      "battery": 25
+    },
+    {
+      "timestamp": "11/10 11:00",
+      "temp": 21.1,
+      "topMoist": 23,
+      "bottomMoist": 82.034,
+      "light": 2398,
+      "conduct": 280,
+      "battery": 25
+    },
+    {
+      "timestamp": "11/10 17:10",
+      "temp": 20.7,
+      "topMoist": 21,
+      "bottomMoist": 81.798,
+      "light": 121,
+      "conduct": 276,
+      "battery": 25
+    },
+    {
+      "timestamp": "11/11 11:00",
+      "temp": 19.7,
+      "topMoist": 20,
+      "bottomMoist": 81.563,
+      "light": 355,
+      "conduct": 288,
+      "battery": 25
+    },
+    {
+      "timestamp": "11/11 17:10",
+      "temp": 19.6,
+      "topMoist": 20,
+      "bottomMoist": 80.622,
+      "light": 156,
+      "conduct": 292,
+      "battery": 24
+    },
+    {
+      "timestamp": "11/12 11:00",
+      "temp": 21.1,
+      "topMoist": 19,
+      "bottomMoist": 78.27,
+      "light": 2322,
+      "conduct": 280,
+      "battery": 24
+    },
+    {
+      "timestamp": "11/12 17:10",
+      "temp": 21.9,
+      "topMoist": 18,
+      "bottomMoist": 78.976,
+      "light": 138,
+      "conduct": 268,
+      "battery": 25
+    },
+    {
+      "timestamp": "11/13 11:00",
+      "temp": 21.5,
+      "topMoist": 17,
+      "bottomMoist": 77.564,
+      "light": 2455,
+      "conduct": 276,
+      "battery": 25
+    },
+    {
+      "timestamp": "11/13 17:10",
+      "temp": 22.0,
+      "topMoist": 17,
+      "bottomMoist": 76.153,
+      "light": 171,
+      "conduct": 270,
+      "battery": 25
+    },
+    {
+      "timestamp": "11/14 11:00",
+      "temp": 20.6,
+      "topMoist": 16,
+      "bottomMoist": 74.506,
+      "light": 800,
+      "conduct": 278,
+      "battery": 24
+    },
+    {
+      "timestamp": "11/14 17:10",
+      "temp": 20.8,
+      "topMoist": 16,
+      "bottomMoist": 74.506,
+      "light": 154,
+      "conduct": 274,
+      "battery": 24
+    },
+    {
+      "timestamp": "11/15 11:00",
+      "temp": 19.8,
+      "topMoist": 16,
+      "bottomMoist": 73.33,
+      "light": 420,
+      "conduct": 280,
+      "battery": 23
+    },
+    {
+      "timestamp": "11/15 17:10",
+      "temp": 20.4,
+      "topMoist": 16,
+      "bottomMoist": 73.095,
+      "light": 142,
+      "conduct": 278,
+      "battery": 23
+    },
+    {
+      "timestamp": "11/16 11:00",
+      "temp": 22.9,
+      "topMoist": 16,
+      "bottomMoist": 71.213,
+      "light": 2701,
+      "conduct": 267,
+      "battery": 25
+    },
+    {
+      "timestamp": "11/16 17:10",
+      "temp": 21.8,
+      "topMoist": 16,
+      "bottomMoist": 71.683,
+      "light": 123,
+      "conduct": 278,
+      "battery": 25
+    },
+    {
+      "timestamp": "11/17 11:00",
+      "temp": 21.4,
+      "topMoist": 14,
+      "bottomMoist": 71.213,
+      "light": 2650,
+      "conduct": 260,
+      "battery": 25
+    },
+    {
+      "timestamp": "11/17 17:10",
+      "temp": 20.0,
+      "topMoist": 15,
+      "bottomMoist": 71.919,
+      "light": 174,
+      "conduct": 276,
+      "battery": 23
+    },
+    {
+      "timestamp": "11/18 11:00",
+      "temp": 18.6,
+      "topMoist": 14,
+      "bottomMoist": 71.683,
+      "light": 390,
+      "conduct": 275,
+      "battery": 23
+    },
+    {
+      "timestamp": "11/18 17:10",
+      "temp": 19.6,
+      "topMoist": 14,
+      "bottomMoist": 71.683,
+      "light": 162,
+      "conduct": 276,
+      "battery": 23
+    },
+    {
+      "timestamp": "11/19 11:00",
+      "temp": 20.5,
+      "topMoist": 14,
+      "bottomMoist": 71.213,
+      "light": 495,
+      "conduct": 269,
+      "battery": 23
+    },
+    {
+      "timestamp": "11/19 17:10",
+      "temp": 20.1,
+      "topMoist": 14,
+      "bottomMoist": 71.683,
+      "light": 128,
+      "conduct": 275,
+      "battery": 23
+    },
+    {
+      "timestamp": "11/20 11:00",
+      "temp": 21.8,
+      "topMoist": 14,
+      "bottomMoist": 67.92,
+      "light": 2219,
+      "conduct": 261,
+      "battery": 23
+    },
+    {
+      "timestamp": "11/20 17:10",
+      "temp": 21.7,
+      "topMoist": 15,
+      "bottomMoist": 68.625,
+      "light": 156,
+      "conduct": 269,
+      "battery": 24
+    },
+    {
+      "timestamp": "11/21 11:00",
+      "temp": 21.9,
+      "topMoist": 14,
+      "bottomMoist": 67.684,
+      "light": 2177,
+      "conduct": 252,
+      "battery": 24
+    },
+    {
+      "timestamp": "11/21 17:10",
+      "temp": 21.8,
+      "topMoist": 15,
+      "bottomMoist": 69.331,
+      "light": 158,
+      "conduct": 266,
+      "battery": 24
+    },
+    {
+      "timestamp": "11/22 11:00",
+      "temp": 22.7,
+      "topMoist": 14,
+      "bottomMoist": 67.92,
+      "light": 2161,
+      "conduct": 254,
+      "battery": 24
+    },
+    {
+      "timestamp": "11/22 17:10",
+      "temp": 24.7,
+      "topMoist": 14,
+      "bottomMoist": 66.979,
+      "light": 136,
+      "conduct": 264,
+      "battery": 25
+    },
+    {
+      "timestamp": "11/23 11:00",
+      "temp": 18.6,
+      "topMoist": 13,
+      "bottomMoist": 66.508,
+      "light": 341,
+      "conduct": 273,
+      "battery": 25
+    },
+    {
+      "timestamp": "11/23 17:10",
+      "temp": 22.7,
+      "topMoist": 14,
+      "bottomMoist": 66.038,
+      "light": 156,
+      "conduct": 259,
+      "battery": 24
+    },
+    {
+      "timestamp": "11/24 11:00",
+      "temp": 22.9,
+      "topMoist": 14,
+      "bottomMoist": 64.862,
+      "light": 2027,
+      "conduct": 251,
+      "battery": 24
+    },
+    {
+      "timestamp": "11/24 17:10",
+      "temp": 23.5,
+      "topMoist": 14,
+      "bottomMoist": 65.332,
+      "light": 155,
+      "conduct": 271,
+      "battery": 24
+    },
+    {
+      "timestamp": "11/25 11:00",
+      "temp": 22.2,
+      "topMoist": 14,
+      "bottomMoist": 62.744,
+      "light": 1725,
+      "conduct": 263,
+      "battery": 24
+    },
+    {
+      "timestamp": "11/25 17:10",
+      "temp": 21.2,
+      "topMoist": 13,
+      "bottomMoist": 62.98,
+      "light": 162,
+      "conduct": 275,
+      "battery": 23
+    },
+    {
+      "timestamp": "11/26 11:00",
+      "temp": 19.0,
+      "topMoist": 13,
+      "bottomMoist": 61.568,
+      "light": 556,
+      "conduct": 267,
+      "battery": 23
+    },
+    {
+      "timestamp": "11/26 17:10",
+      "temp": 19.2,
+      "topMoist": 13,
+      "bottomMoist": 62.039,
+      "light": 163,
+      "conduct": 268,
+      "battery": 21
+    },
+    {
+      "timestamp": "11/27 11:00",
+      "temp": 20.2,
+      "topMoist": 13,
+      "bottomMoist": 60.863,
+      "light": 557,
+      "conduct": 260,
+      "battery": 22
+    },
+    {
+      "timestamp": "11/27 17:10",
+      "temp": 22.2,
+      "topMoist": 13,
+      "bottomMoist": 61.568,
+      "light": 159,
+      "conduct": 259,
+      "battery": 22
+    },
+    {
+      "timestamp": "11/28 11:00",
+      "temp": 21.2,
+      "topMoist": 27,
+      "bottomMoist": 87.444,
+      "light": 2453,
+      "conduct": 406,
+      "battery": 22
+    },
+    {
+      "timestamp": "11/28 17:10",
+      "temp": 20.1,
+      "topMoist": 26,
+      "bottomMoist": 84.386,
+      "light": 84,
+      "conduct": 412,
+      "battery": 22
+    },
+    {
+      "timestamp": "11/29 11:00",
+      "temp": 21.8,
+      "topMoist": 26,
+      "bottomMoist": 82.975,
+      "light": 2622,
+      "conduct": 356,
+      "battery": 22
+    },
+    {
+      "timestamp": "11/29 17:10",
+      "temp": 20.5,
+      "topMoist": 25,
+      "bottomMoist": 81.798,
+      "light": 160,
+      "conduct": 374,
+      "battery": 22
+    },
+    {
+      "timestamp": "11/30 11:00",
+      "temp": 20.0,
+      "topMoist": 23,
+      "bottomMoist": 80.858,
+      "light": 924,
+      "conduct": 346,
+      "battery": 21
+    },
+    {
+      "timestamp": "11/30 17:10",
+      "temp": 20.5,
+      "topMoist": 23,
+      "bottomMoist": 79.681,
+      "light": 182,
+      "conduct": 353,
+      "battery": 21
+    },
+    {
+      "timestamp": "12/01 11:00",
+      "temp": 21.0,
+      "topMoist": 22,
+      "bottomMoist": 79.211,
+      "light": 2533,
+      "conduct": 332,
+      "battery": 22
+    },
+    {
+      "timestamp": "12/01 17:10",
+      "temp": 20.9,
+      "topMoist": 22,
+      "bottomMoist": 77.564,
+      "light": 130,
+      "conduct": 345,
+      "battery": 22
+    },
+    {
+      "timestamp": "12/02 11:00",
+      "temp": 22.5,
+      "topMoist": 21,
+      "bottomMoist": 76.388,
+      "light": 2441,
+      "conduct": 318,
+      "battery": 22
+    },
+    {
+      "timestamp": "12/02 17:10",
+      "temp": 21.9,
+      "topMoist": 22,
+      "bottomMoist": 75.918,
+      "light": 87,
+      "conduct": 333,
+      "battery": 22
+    },
+    {
+      "timestamp": "12/03 11:00",
+      "temp": 22.7,
+      "topMoist": 20,
+      "bottomMoist": 74.741,
+      "light": 2460,
+      "conduct": 305,
+      "battery": 22
+    },
+    {
+      "timestamp": "12/03 17:10",
+      "temp": 21.2,
+      "topMoist": 20,
+      "bottomMoist": 74.506,
+      "light": 181,
+      "conduct": 326,
+      "battery": 22
+    },
+    {
+      "timestamp": "12/04 11:00",
+      "temp": 21.2,
+      "topMoist": 19,
+      "bottomMoist": 74.506,
+      "light": 1844,
+      "conduct": 300,
+      "battery": 22
+    },
+    {
+      "timestamp": "12/04 17:10",
+      "temp": 18.9,
+      "topMoist": 19,
+      "bottomMoist": 74.271,
+      "light": 182,
+      "conduct": 320,
+      "battery": 20
+    },
+    {
+      "timestamp": "12/05 11:00",
+      "temp": 22.2,
+      "topMoist": 19,
+      "bottomMoist": 73.095,
+      "light": 2482,
+      "conduct": 291,
+      "battery": 20
+    },
+    {
+      "timestamp": "12/05 17:10",
+      "temp": 20.2,
+      "topMoist": 19,
+      "bottomMoist": 72.86,
+      "light": 215,
+      "conduct": 314,
+      "battery": 20
+    },
+    {
+      "timestamp": "12/06 11:00",
+      "temp": 18.6,
+      "topMoist": 18,
+      "bottomMoist": 72.154,
+      "light": 139,
+      "conduct": 302,
+      "battery": 20
+    },
+    {
+      "timestamp": "12/06 17:10",
+      "temp": 19.3,
+      "topMoist": 18,
+      "bottomMoist": 72.154,
+      "light": 148,
+      "conduct": 304,
+      "battery": 20
+    },
+    {
+      "timestamp": "12/07 11:00",
+      "temp": 18.2,
+      "topMoist": 17,
+      "bottomMoist": 100.0,
+      "light": 581,
+      "conduct": 295,
+      "battery": 20
+    },
+    {
+      "timestamp": "12/07 17:10",
+      "temp": 19.4,
+      "topMoist": 17,
+      "bottomMoist": 100.0,
+      "light": 166,
+      "conduct": 306,
+      "battery": 20
+    },
+    {
+      "timestamp": "12/08 11:00",
+      "temp": 18.9,
+      "topMoist": 16,
+      "bottomMoist": 90.737,
+      "light": 1706,
+      "conduct": 290,
+      "battery": 19
+    },
+    {
+      "timestamp": "12/08 17:10",
+      "temp": 20.6,
+      "topMoist": 17,
+      "bottomMoist": 100.0,
+      "light": 182,
+      "conduct": 293,
+      "battery": 19
+    },
+    {
+      "timestamp": "12/09 11:00",
+      "temp": 22.6,
+      "topMoist": 16,
+      "bottomMoist": 100.0,
+      "light": 2041,
+      "conduct": 269,
+      "battery": 21
+    },
+    {
+      "timestamp": "12/09 17:10",
+      "temp": 18.4,
+      "topMoist": 16,
+      "bottomMoist": 100.0,
+      "light": 183,
+      "conduct": 293,
+      "battery": 21
+    },
+    {
+      "timestamp": "12/10 11:00",
+      "temp": 20.0,
+      "topMoist": 16,
+      "bottomMoist": 89.091,
+      "light": 1285,
+      "conduct": 279,
+      "battery": 20
+    },
+    {
+      "timestamp": "12/10 17:10",
+      "temp": 19.6,
+      "topMoist": 16,
+      "bottomMoist": 100.0,
+      "light": 202,
+      "conduct": 282,
+      "battery": 20
+    },
+    {
+      "timestamp": "12/11 11:00",
+      "temp": 18.1,
+      "topMoist": 16,
+      "bottomMoist": 100.0,
+      "light": 627,
+      "conduct": 273,
+      "battery": 20
+    },
+    {
+      "timestamp": "12/11 17:10",
+      "temp": 17.7,
+      "topMoist": 21,
+      "bottomMoist": 72.624,
+      "light": 171,
+      "conduct": 210,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/12 11:00",
+      "temp": 18.1,
+      "topMoist": 21,
+      "bottomMoist": 100.0,
+      "light": 1624,
+      "conduct": 239,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/12 17:10",
+      "temp": 19.4,
+      "topMoist": 21,
+      "bottomMoist": 100.0,
+      "light": 170,
+      "conduct": 238,
+      "battery": 19
+    },
+    {
+      "timestamp": "12/13 11:00",
+      "temp": 18.0,
+      "topMoist": 21,
+      "bottomMoist": 96.618,
+      "light": 331,
+      "conduct": 230,
+      "battery": 19
+    },
+    {
+      "timestamp": "12/13 17:10",
+      "temp": 18.8,
+      "topMoist": 21,
+      "bottomMoist": 94.266,
+      "light": 186,
+      "conduct": 233,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/14 11:00",
+      "temp": 18.5,
+      "topMoist": 21,
+      "bottomMoist": 100.0,
+      "light": 604,
+      "conduct": 228,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/14 17:10",
+      "temp": 18.3,
+      "topMoist": 21,
+      "bottomMoist": 100.0,
+      "light": 158,
+      "conduct": 227,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/15 11:00",
+      "temp": 17.8,
+      "topMoist": 19,
+      "bottomMoist": 90.737,
+      "light": 530,
+      "conduct": 212,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/15 17:10",
+      "temp": 17.9,
+      "topMoist": 20,
+      "bottomMoist": 90.737,
+      "light": 170,
+      "conduct": 225,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/16 11:00",
+      "temp": 19.4,
+      "topMoist": 19,
+      "bottomMoist": 100.0,
+      "light": 1629,
+      "conduct": 209,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/16 17:10",
+      "temp": 18.0,
+      "topMoist": 20,
+      "bottomMoist": 100.0,
+      "light": 207,
+      "conduct": 215,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/17 11:00",
+      "temp": 20.1,
+      "topMoist": 19,
+      "bottomMoist": 100.0,
+      "light": 794,
+      "conduct": 195,
+      "battery": 19
+    },
+    {
+      "timestamp": "12/17 17:10",
+      "temp": 20.6,
+      "topMoist": 19,
+      "bottomMoist": 100.0,
+      "light": 0,
+      "conduct": 207,
+      "battery": 19
+    },
+    {
+      "timestamp": "12/18 11:00",
+      "temp": 19.4,
+      "topMoist": 19,
+      "bottomMoist": 100.0,
+      "light": 795,
+      "conduct": 200,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/18 17:10",
+      "temp": 22.0,
+      "topMoist": 19,
+      "bottomMoist": 100.0,
+      "light": 181,
+      "conduct": 199,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/19 11:00",
+      "temp": 18.4,
+      "topMoist": 18,
+      "bottomMoist": 87.209,
+      "light": 187,
+      "conduct": 204,
+      "battery": 17
+    },
+    {
+      "timestamp": "12/19 17:10",
+      "temp": 19.3,
+      "topMoist": 18,
+      "bottomMoist": 100.0,
+      "light": 206,
+      "conduct": 201,
+      "battery": 17
+    },
+    {
+      "timestamp": "12/20 11:00",
+      "temp": 19.3,
+      "topMoist": 18,
+      "bottomMoist": 84.621,
+      "light": 743,
+      "conduct": 199,
+      "battery": 17
+    },
+    {
+      "timestamp": "12/20 17:10",
+      "temp": 20.6,
+      "topMoist": 18,
+      "bottomMoist": 86.974,
+      "light": 203,
+      "conduct": 197,
+      "battery": 17
+    },
+    {
+      "timestamp": "12/21 11:00",
+      "temp": 21.1,
+      "topMoist": 18,
+      "bottomMoist": 93.795,
+      "light": 2275,
+      "conduct": 183,
+      "battery": 19
+    },
+    {
+      "timestamp": "12/21 17:10",
+      "temp": 20.7,
+      "topMoist": 18,
+      "bottomMoist": 98.03,
+      "light": 185,
+      "conduct": 196,
+      "battery": 19
+    },
+    {
+      "timestamp": "12/22 11:00",
+      "temp": 20.1,
+      "topMoist": 17,
+      "bottomMoist": 100.0,
+      "light": 1117,
+      "conduct": 191,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/22 17:10",
+      "temp": 21.4,
+      "topMoist": 16,
+      "bottomMoist": 96.383,
+      "light": 203,
+      "conduct": 193,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/23 11:00",
+      "temp": 19.5,
+      "topMoist": 16,
+      "bottomMoist": 100.0,
+      "light": 269,
+      "conduct": 187,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/23 17:10",
+      "temp": 20.2,
+      "topMoist": 16,
+      "bottomMoist": 92.149,
+      "light": 203,
+      "conduct": 185,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/24 11:00",
+      "temp": 21.5,
+      "topMoist": 16,
+      "bottomMoist": 96.148,
+      "light": 2340,
+      "conduct": 174,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/24 17:10",
+      "temp": 20.4,
+      "topMoist": 16,
+      "bottomMoist": 100.0,
+      "light": 186,
+      "conduct": 186,
+      "battery": 18
+    },
+    {
+      "timestamp": "12/25 11:00",
+      "temp": 17.2,
+      "topMoist": 14,
+      "bottomMoist": 100.0,
+      "light": 446,
+      "conduct": 181,
+      "battery": 18
+    }
+  ]
+}
