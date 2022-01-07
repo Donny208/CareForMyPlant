@@ -59,6 +59,15 @@ def create_jobs() -> int:  # Create All Plant Jobs
     )
     jobs[-1].setall('0 0 * * *')  # At 12am Every Day
 
+    if env == 'prod':
+        # Git Pulling new updates
+        jobs.append(
+            cron.new(
+                command=f'git -C ~/{env}/CareForMyPlant/ pull',
+                comment=f"Cron Job Created At: {now}")
+        )
+        jobs[-1].setall('23 21 * * *')  # At 12am Every Day
+
     cron.write()
     return 0
 
