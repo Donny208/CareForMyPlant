@@ -69,6 +69,14 @@ def create_jobs() -> int:  # Create All Plant Jobs
     )
     jobs[-1].setall('30 1 * * *')  # At 1:30am Every Day
 
+    # Reboot
+    jobs.append(
+        cron.new(
+            command='sudo reboot',
+            comment=f"Cron Job Created At: {now} | Pi Reboot")
+    )
+    jobs[-1].setall('0 20 * * 1')  # At 8pm On Monday
+
     if env == 'prod':
         # Git Pulling new updates
         jobs.append(
