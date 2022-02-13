@@ -114,7 +114,7 @@ class Reddit:
 
     def tally_votes(self) -> int:
         print("-> Tallying Votes")
-        vote_query = Vote.objects(outcome=-1)
+        vote_query = Vote.objects(outcome=-1).first()
         if len(vote_query) > 1:
             print(f"\t-> Multiple Database instances of a Non-Tallied Vote, check DB.")
             return 1
