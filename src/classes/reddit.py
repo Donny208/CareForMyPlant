@@ -92,7 +92,7 @@ class Reddit:
                   "## **How To Vote**\n\n" \
                   f"{string_data['how_to_vote']}\n\n---\n" \
                   "## **Watering History**\n\n" \
-                  f"{self.get_water_history(25)}\n\n---\n" \
+                  f"{self.get_water_history(30)}\n\n---\n" \
                   f"## **Top {n_voters} Voters**\n\n" \
                   f"{self.get_voter_history(15)}\n\n---\n" \
                   "## **Other Info**\n\n" \
