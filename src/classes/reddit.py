@@ -94,7 +94,7 @@ class Reddit:
                   "## **Watering History**\n\n" \
                   f"{self.get_water_history(30)}\n\n---\n" \
                   f"## **Top {n_voters} Voters**\n\n" \
-                  f"{self.get_voter_history(15)}\n\n---\n" \
+                  f"{self.get_voter_history(n_voters)}\n\n---\n" \
                   "## **Other Info**\n\n" \
                   f"Plant's Age: {str(self.get_plant_age())} Days\n\n" \
                   f"Temperature: {str(plant_data.temperature)}°C ({str(round(plant_data.temperature * 1.8 + 32, 2))}°F)\n\n" \
