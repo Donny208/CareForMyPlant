@@ -22,6 +22,8 @@ Some example of the recorded vitals:
 * MiFlora Sensor
 * Relay
 * 5v Pump
+
+
 (Optional hardware for pictures)
 * Raspberry Pi Zero
 * Raspberry Pi Compatible Camera
